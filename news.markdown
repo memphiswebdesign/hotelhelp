@@ -7,3 +7,5 @@ permalink: /news
 
 
 # News
+
+<h4>{{ site.url }}</h4>
