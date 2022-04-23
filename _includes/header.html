@@ -1,0 +1,23 @@
+<header>
+	<div class="container center white">
+		<div class="flex fx-apart fx-align-center">
+			<div id="logo">
+				<a href="/">
+					<img src="../assets/hotelhelp-logo-w.svg" />
+				</a>
+			</div>
+			<nav>
+				<ul>
+					{% for item in site.data.menu %} 
+					<li {% if item.link == page.url %} class="active"{% endif %}
+					><a href="{{item.link}}">{{item.title}}</a></li>
+					{% endfor %}
+				</ul>
+			</nav>
+			<div class="cta">
+				<a class="btn ghost" href="/contact">Contact us</a>
+				<a class="btn" href="/" >Find a Job</a>
+			</div>
+		</div>
+	</div>
+</header> 
