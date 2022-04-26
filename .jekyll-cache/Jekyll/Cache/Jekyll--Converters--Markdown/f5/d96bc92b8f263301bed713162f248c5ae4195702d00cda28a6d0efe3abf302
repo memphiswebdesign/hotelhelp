@@ -1,129 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <!-- head.html -->
-<meta charset="UTF-8" />
-<title>Hotelhelp | Hospitality staffing - About Hotelhelp</title>
-<!-- Meta Data -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta name="robots" content="index,follow"/>
-<meta name="description" content="We offer exclusive help specific to the Hospitality Industry and offer employees with Hospitality Hearts that are dedicated to the Industry. We make sure to train all of our employees to guarantee outstanding service."/>
-<meta property="og:title" content="Hotelhelp | Hospitality staffing"/>
-<meta property="og:description" content="We offer exclusive help specific to the Hospitality Industry and offer employees with Hospitality Hearts that are dedicated to the Industry. We make sure to train all of our employees to guarantee outstanding service."/>
-<meta property="og:url" content="http://www.hotelhelpservicesinfo.com/">
-<meta property="og:type" content="website"/>
-<meta property="og:image" content="http://localhost:4000/assets/banner.png"/>
-<meta property="og:image:alt" content="We offer exclusive help specific to the Hospitality Industry and offer employees with Hospitality Hearts that are dedicated to the Industry. We make sure to train all of our employees to guarantee outstanding service."/>
-<meta property="og:image:width" content="1200"/>
-<meta property="og:image:height" content="630"/>
-<link rel="canonical" href="/"/>
-
-<!-- Styles -->
-<link rel="stylesheet" href="/css/style.css" />
-<!-- Favicon -->
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon-180.png" />
-<link rel="icon" type="image/png" href="/assets/favicon-32.png" sizes="32x32" />
-<link rel="icon" type="image/png" href="/assets/favicon-16.png" sizes="16x16" />
-<!-- Google Font -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300;400;500&family=Mulish:wght@400;900&display=swap" rel="stylesheet">
-<!-- jQuery -->
-<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
-<!-- jQuery UI -->
-<!-- <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js" integrity="sha256-eTyxS0rkjpLEo16uXTS0uVCS4815lc40K2iVpWDvdSY=" crossorigin="anonymous"></script> -->
-<!-- LazySizes & config -->
-<script>window.lazySizesConfig = window.lazySizesConfig || {};
-lazySizesConfig.loadMode = 1;</script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<!-- Isotope Js - only on Case Studies page -->
-
-
-<!-- Schema -->
-<script type="application/ld+json">
-{
-  "@context" : "http://schema.org",
-  "@type" : "WebSite",
-  "name" : "Hotel Help",
-  "alternateName" : "Hotelhelp",
-  "url" : "http://www.hotelhelpservicesinfo.com/"
-}
-</script>
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "url": "http://www.hotelhelpservicesinfo.com/",
-    "logo": "http://localhost:4000/assets/banner.png",
-    "contactPoint" : [
-    {   "@type" : "ContactPoint",
-        "telephone" : "+1-901-624-5000",
-        "contactType" : "Sales",
-        "contactOption" : "TollFree",
-        "areaServed" : "US",
-        "availableLanguage" : "English"
-} ],
-    "sameAs" : [
-        "https://www.facebook.com/hotelhelp.staffing.services/",
-        "https://www.linkedin.com/company/hotel-help-services/about/"
-    ]
-}
-</script>
-
-  </head>
-  <body>
-    <div id="page">
-      <header>
-	<div class="container center white">
-		<div class="flex fx-apart fx-align-center">
-			<div id="logo">
-				<a href="/">
-					<img src="../assets/hotelhelp-logo-w.svg" />
-				</a>
-			</div>
-			<nav>
-				<ul>
-					 
-					<li 
-					><a href="/services">Services</a></li>
-					 
-					<li 
-					><a href="/case-studies">Case Studies</a></li>
-					 
-					<li  class="active"
-					><a href="/about">About</a></li>
-					 
-					<li 
-					><a href="/news">News</a></li>
-					 
-					<li 
-					><a href="/espanol">español</a></li>
-					
-				</ul>
-			</nav>
-			<div class="cta">
-				<a class="btn ghost" href="/contact">Contact us</a>
-				<a class="btn" href="/" >Find a Job</a>
-			</div>
-		</div>
-	</div>
-</header> 
-      
-        <section id="hero" class="default">
-	<div class="container center">
-		<pre class="hero-title">About Hotelhelp</pre>
-		<div class="hero-sub-title">Providing 5 star hospitality for over 25 years</div>
-	</div>
-</section>
-      
-      <div id="content"><div id="about" class="plus-tile-tx">
+I"m<div id="about" class="plus-tile-tx">
 	<!-- <div class="container">
 		<img src="../assets/hotelhelp-team.jpg" />
 	</div> -->
 	<div class="container thiner py-2">
 		<h2 class="mt-0">Providing 5 star hospitality for over 25 years</h2>
-		<p>At HOTELhelp, we understand first hand the hiring needs of hotels. How? Because, most of our hotel recruitment experts come from a hospitality background, including luxury, branded and boutique hotels. Because of this experience, we know exactly where to find the best candidates for your hotel. We offer a variety of recruiting options for hotels and can create custom solutions for your specific needs and budgetary constraints.</p>
+		<p>Filler copy: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+		</p>
 		<p class="mb-2">The Hotel Industry has over the years gone through many changes. One area that never changes is the one on one relationship that our front line employees have with our Guests. It is important that this relationship be the TOP priority when hiring our employees. Not only do we have a responsibility to our parent companies to offer the best accommodations and services we also have the responsibility of staying within our budget and still offer the best Guest Satisfaction available.</p>
 		<a href="/contact" class="btn">Join the team</a>
 	</div>
@@ -275,14 +157,4 @@ lazySizesConfig.loadMode = 1;</script>
 		</div>
 	</div>
 </section>
-</div>
-      <footer>
-	<div class="container center white">
-		<div class="footer-logo"><img src="../assets/hotelhelp-logo-w.svg" /></div>
-		<p>Footer coming soon...</p>
-	</div>
-</footer>
-      <script src="../js/scripts.js"></script>
-    </div>
-  </body>
-</html>
+:ET
