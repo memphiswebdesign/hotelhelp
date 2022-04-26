@@ -11,7 +11,7 @@
 <meta name="description" content="We offer exclusive help specific to the Hospitality Industry and offer employees with Hospitality Hearts that are dedicated to the Industry. We make sure to train all of our employees to guarantee outstanding service."/>
 <meta property="og:title" content="Hotelhelp | Hospitality staffing"/>
 <meta property="og:description" content="We offer exclusive help specific to the Hospitality Industry and offer employees with Hospitality Hearts that are dedicated to the Industry. We make sure to train all of our employees to guarantee outstanding service."/>
-<meta property="og:url" content="http://localhost:4000">
+<meta property="og:url" content="http://www.hotelhelpservicesinfo.com/">
 <meta property="og:type" content="website"/>
 <meta property="og:image" content="http://localhost:4000/assets/banner.png"/>
 <meta property="og:image:alt" content="We offer exclusive help specific to the Hospitality Industry and offer employees with Hospitality Hearts that are dedicated to the Industry. We make sure to train all of our employees to guarantee outstanding service."/>
@@ -37,6 +37,10 @@
 <script>window.lazySizesConfig = window.lazySizesConfig || {};
 lazySizesConfig.loadMode = 1;</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- Isotope Js - only on Case Studies page -->
+
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+
 
 <!-- Schema -->
 <script type="application/ld+json">
@@ -115,7 +119,105 @@ lazySizesConfig.loadMode = 1;</script>
 	</div>
 </section>
       
-      <div id="content"><h1 id="case-studies-page">Case Studies page</h1>
+      <div id="content"><div id="case-studies" class="plus-tile-tx">
+	<div class="container">
+		<div class="filters">
+			<ul class="center">
+				<li class="btn ghost active" data-filter="*">All</li>
+				<li data-filter=".one" class="btn ghost">Filter 1</li>
+				<li data-filter=".two" class="btn ghost">Filter 2</li>
+				<li data-filter=".three" class="btn ghost">Filter 3</li>
+			</ul>
+		</div>
+	</div>
+	<div class="container">
+		<div class="flex fx-apart fx-wrap cards center grid">
+			<div class="grid-sizer"></div>
+			<div class="grid-item one two">
+				<div class="card-item">
+					<a class="card-link" href="#" alt="hotel-name"></a>
+					<div class="card-image">
+						<img alt="hotel name case study" src="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=108&amp;h=72&amp;q=10" data-src="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" class="blur lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Austin Marriott Downtown</h4>
+						<p>Austin, Texas</p>
+					</div>
+				</div>
+			</div>
+			<div class="grid-item two three">
+				<div class="card-item">
+					<a class="card-link" href="#" alt="hotel-name"></a>
+					<div class="card-image">
+						<img alt="hotel name case study" src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=108&amp;h=72&amp;q=10" data-src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" class="blur lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Sheraton Memphis Downtown</h4>
+						<p>Memphis, TN</p>
+					</div>
+				</div>
+			</div>
+			<div class="grid-item three">
+				<div class="card-item">
+					<a class="card-link" href="#" alt="hotel-name"></a>
+					<div class="card-image">
+						<img alt="hotel name case study" src="https://images.unsplash.com/photo-1518733057094-95b53143d2a7?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=108&amp;h=72&amp;q=10" data-src="https://images.unsplash.com/photo-1518733057094-95b53143d2a7?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" class="blur lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Residence Inn Flagstaff</h4>
+						<p>Flagstaff, AZ</p>
+					</div>
+				</div>
+			</div>
+			<div class="grid-item one three">
+				<div class="card-item">
+					<a class="card-link" href="#" alt="hotel-name"></a>
+					<div class="card-image">
+						<img alt="hotel name case study" src="https://images.unsplash.com/photo-1518733057094-95b53143d2a7?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=108&amp;h=72&amp;q=10" data-src="https://images.unsplash.com/photo-1518733057094-95b53143d2a7?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" class="blur lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Residence Inn Flagstaff</h4>
+						<p>Flagstaff, AZ</p>
+					</div>
+				</div>
+			</div>
+			<div class="grid-item two">
+				<div class="card-item">
+					<a class="card-link" href="#" alt="hotel-name"></a>
+					<div class="card-image">
+						<img alt="hotel name case study" src="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=108&amp;h=72&amp;q=10" data-src="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" class="blur lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Austin Marriott Downtown</h4>
+						<p>Austin, Texas</p>
+					</div>
+				</div>
+			</div>
+			<div class="grid-item one">
+				<div class="card-item">
+					<a class="card-link" href="#" alt="hotel-name"></a>
+					<div class="card-image">
+						<img alt="hotel name case study" src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=108&amp;h=72&amp;q=10" data-src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" class="blur lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Sheraton Memphis Downtown</h4>
+						<p>Memphis, TN</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<section class="staffing-cta">
+	<div class="container thiner center">
+		<div class="border-offset">
+			<h2 class="mt-0">Looking for Staffing?</h2>
+			<p class="mb-2">Our services are designed to help you make the most effective hiring decisions for your organization.</p>
+			<a href="/contact" class="btn">Contact us</a>
+		</div>
+	</div>
+</section>
 </div>
       <footer>
 	<div class="container center white">

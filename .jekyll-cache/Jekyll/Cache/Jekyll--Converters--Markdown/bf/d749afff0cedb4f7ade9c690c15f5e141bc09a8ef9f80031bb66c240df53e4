@@ -1,0 +1,161 @@
+I"i<div id="about" class="plus-tile-tx">
+	<!-- <div class="container">
+		<img src="../assets/hotelhelp-team.jpg" />
+	</div> -->
+	<div class="container thiner ">
+		<h2 class="mt-0">Providing 5 star hospitality for over 25 years</h2>
+		<p>Filler copy: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+		</p>
+		<p>More filler copy, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+		<a href="/contact" class="btn">Join the team</a>
+		<hr />
+	</div>
+	<div class="container">
+		<!-- <hr class="mt-3 mb-3"> -->
+		<div class="flex fx-apart fx-wrap cards center pt-0">
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jason Harris - Hotelhelp team member" data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=440&amp;h=440&amp;q=80" class="lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Jason Harris</h4>
+						<p>Regional Director of Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jason Harris - Hotelhelp team member" data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=440&amp;h=440&amp;q=80" class="lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Jason Harris</h4>
+						<p>Regional Director of Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jason Harris - Hotelhelp team member" data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=440&amp;h=440&amp;q=80" class="lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Jason Harris</h4>
+						<p>Regional Director of Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jason Harris - Hotelhelp team member" data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=440&amp;h=440&amp;q=80" class="lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Jason Harris</h4>
+						<p>Regional Director of Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jason Harris - Hotelhelp team member" data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=440&amp;h=440&amp;q=80" class="lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Jason Harris</h4>
+						<p>Regional Director of Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jason Harris - Hotelhelp team member" data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=440&amp;h=440&amp;q=80" class="lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Jason Harris</h4>
+						<p>Regional Director of Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jason Harris - Hotelhelp team member" data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=440&amp;h=440&amp;q=80" class="lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Jason Harris</h4>
+						<p>Regional Director of Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jason Harris - Hotelhelp team member" data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=440&amp;h=440&amp;q=80" class="lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Jason Harris</h4>
+						<p>Regional Director of Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jason Harris - Hotelhelp team member" data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=440&amp;h=440&amp;q=80" class="lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Jason Harris</h4>
+						<p>Regional Director of Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jason Harris - Hotelhelp team member" data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=440&amp;h=440&amp;q=80" class="lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Jason Harris</h4>
+						<p>Regional Director of Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jason Harris - Hotelhelp team member" data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=440&amp;h=440&amp;q=80" class="lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Jason Harris</h4>
+						<p>Regional Director of Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jason Harris - Hotelhelp team member" data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=440&amp;h=440&amp;q=80" class="lazyload" />
+					</div>
+					<div class="card-meta">
+						<h4>Jason Harris</h4>
+						<p>Regional Director of Operations</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<section class="staffing-cta">
+	<div class="container thiner center">
+		<div class="border-offset">
+			<h2 class="mt-0">Looking for Staffing?</h2>
+			<p class="mb-2">Our services are designed to help you make the most effective hiring decisions for your organization.</p>
+			<a href="/contact" class="btn">Contact us</a>
+		</div>
+	</div>
+</section>
+:ET
