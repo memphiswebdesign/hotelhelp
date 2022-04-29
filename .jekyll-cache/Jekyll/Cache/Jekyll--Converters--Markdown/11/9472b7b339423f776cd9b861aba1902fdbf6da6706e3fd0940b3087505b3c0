@@ -1,13 +1,6 @@
----
-layout: default
-title: Hotelhelp Services
-subtitle: Trained & job ready staffing for your organization
-permalink: /services
----
-
-<div id="services" class="plus-tile-tx pb-3">
+I"<div id="services" class="plus-tile-tx">
 	<div class="container thiner py-2 px-3 px-sm-1 center">
-		<pre>Trusted & Dependent</pre>
+		<pre>Trusted &amp; Dependent</pre>
 		<h1 class="mt-0">We provide solutions in several types of employment relationships</h1>
 		<p>Hotelhelp provides our clients with the most comprehensive recruitment tools, pre-employment screenings and assessments available. This ensures that all potential issues and concerns are uncovered before a final hiring decision is made. Our services are designed to help you make the most effective hiring decisions for your organization.</p>
 	</div>
@@ -21,11 +14,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Front Desk service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					<img alt="Hotelhelp Front Desk service" src="../assets/service-housekeeping-thumb.png" data-src="../assets/service-housekeeping-1440.jpg" class="blur lazyload" />
 				</div>
 			</div>
 		</div>
@@ -40,11 +29,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Front Desk service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					<img alt="Hotelhelp Front Desk service" src="../assets/service-housekeeping-thumb.png" data-src="../assets/service-housekeeping-1440.jpg" class="blur lazyload" />
 				</div>
 			</div>
 		</div>
@@ -59,11 +44,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Maintenance service"
-						src="../assets/service-maintenance-thumb.png"
-						data-src="../assets/service-maintenance-1440.jpg"
-						class="blur lazyload" />
+					<img alt="Hotelhelp Maintenance service" src="../assets/service-maintenance-thumb.png" data-src="../assets/service-maintenance-1440.jpg" class="blur lazyload" />
 				</div>
 			</div>
 		</div>
@@ -78,11 +59,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Lobby Breakfast service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					<img alt="Hotelhelp Lobby Breakfast service" src="../assets/service-housekeeping-thumb.png" data-src="../assets/service-housekeeping-1440.jpg" class="blur lazyload" />
 				</div>
 			</div>
 		</div>
@@ -97,11 +74,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Laundry service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					<img alt="Hotelhelp Laundry service" src="../assets/service-housekeeping-thumb.png" data-src="../assets/service-housekeeping-1440.jpg" class="blur lazyload" />
 				</div>
 			</div>
 		</div>
@@ -116,11 +89,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Shuttle service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					<img alt="Hotelhelp Shuttle service" src="../assets/service-housekeeping-thumb.png" data-src="../assets/service-housekeeping-1440.jpg" class="blur lazyload" />
 				</div>
 			</div>
 		</div>
@@ -135,11 +104,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Banquet service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					<img alt="Hotelhelp Banquet service" src="../assets/service-housekeeping-thumb.png" data-src="../assets/service-housekeeping-1440.jpg" class="blur lazyload" />
 				</div>
 			</div>
 		</div>
@@ -154,15 +119,10 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Grounds service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					<img alt="Hotelhelp Grounds service" src="../assets/service-housekeeping-thumb.png" data-src="../assets/service-housekeeping-1440.jpg" class="blur lazyload" />
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-
-{% include featured-cases.html %}
+:ET

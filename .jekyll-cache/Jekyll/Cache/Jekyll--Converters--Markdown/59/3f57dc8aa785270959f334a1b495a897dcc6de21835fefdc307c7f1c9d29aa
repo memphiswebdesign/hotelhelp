@@ -1,0 +1,18 @@
+I"L<div id="about" class="plus-tile-tx">
+	<div class="container thiner py-2 center">
+		<pre>Trusted &amp; Dependent</pre>
+		<h2 class="mt-0">We provide solutions in several types of employment relationships</h2>
+		<p>Hotelhelp provides our clients with the most comprehensive recruitment tools, pre-employment screenings and assessments available. This ensures that all potential issues and concerns are uncovered before a final hiring decision is made. Our services are designed to help you make the most effective hiring decisions for your organization.</p>
+	</div>
+	<div class="container py-4">
+		<div class="flex fx-apart fx-wrap cards center pt-0">
+			<div class="fx-item-2 fx-item-md-2 fx-item-sm-1">
+				left content here
+			</div>
+			<div class="fx-item-2 fx-item-md-2 fx-item-sm-1">
+				right photo here
+			</div>
+		</div>
+	</div>
+</div>
+:ET
