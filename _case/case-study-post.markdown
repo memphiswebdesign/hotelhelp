@@ -1,14 +1,13 @@
 ---
 layout: article
-title: "Hotelhelp Group Strengthens Leadership Team to Support its Growth"
-meta: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standards"
-img: "/assets/looking-job-bg.png"
-date: 2022-04-13
-permalink: news/welcome-to-jekyll
-
+title:  "Austin Marriott Downtown"
+meta: "Austin, Texas"
+img: "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80"
+cat: "one"
+permalink: case-studies/austin-marriott-downtown 
 ---
-
-<img src="{{ page.img }}" />
+ 
+<img src="{{ page.img }}" /> 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

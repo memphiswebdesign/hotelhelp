@@ -29,6 +29,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 address: 894 North Germantown Parkway, Cordova,TN 38018
 phone: 901-624-5000
 facebook_url: https://www.facebook.com/hotelhelp.staffing.services
+
+collections:
+  case:
+    output: true
+    permalink: /case-studies/:path/
  
 # Build settings
 theme: minima

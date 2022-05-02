@@ -20,7 +20,7 @@ permalink: /case-studies
 			<div class="grid-sizer"></div>
 			<div class="grid-item one two">
 				<div class="card-item">
-					<a class="card-link" href="#" alt="hotel-name"></a>
+					<a class="card-link" href="/case-studies/austin-marriott-downtown" alt="hotel-name"></a>
 					<div class="card-image">
 						<img
 							alt="hotel name case study"
@@ -116,6 +116,23 @@ permalink: /case-studies
 			</div>
 		</div>
 	</div>
+</div>
+
+<hr>
+<div class="container center thiner">
+	<h2>Swap above feed for dynamic feed</h2>
+	<ul> 
+		{% for case in site.case %}
+		<li>
+			<a href="{{ case.url }}">
+				<img src="{{ case.img }}" />
+				<h2>{{ case.title }}</h2>
+				<p>{{ case.meta }}</p>
+				<code>{{ case.cat }}</code>
+			</a>
+		</li>
+		{% endfor %}
+	</ul>
 </div>
 
 {% include staffing-cta.html %}
