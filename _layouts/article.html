@@ -13,16 +13,22 @@
               <a href="/case-studies">
                 <span><svg width="12" height="11" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.9 4.5h-8L6.2 1c.2-.2.2-.6 0-.8-.2-.2-.5-.2-.7 0L1.2 4.6c-.3.2-.3.6 0 .8L5.6 10c.2.2.6.2.8 0 .2-.3.2-.6 0-.8L2.9 5.6h8c.4 0 .7-.2.7-.6-.2-.3-.4-.6-.7-.5Z" fill="#0077AA"/></svg></span>
                 All Case Studies</a>
-            {% else %} 
+            {% else %}
               <a href="/news">
                 <span><svg width="12" height="11" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.9 4.5h-8L6.2 1c.2-.2.2-.6 0-.8-.2-.2-.5-.2-.7 0L1.2 4.6c-.3.2-.3.6 0 .8L5.6 10c.2.2.6.2.8 0 .2-.3.2-.6 0-.8L2.9 5.6h8c.4 0 .7-.2.7-.6-.2-.3-.4-.6-.7-.5Z" fill="#0077AA"/></svg></span>
                 Back to News</a>
             {% endif %}
           </div>
           <h1 class="article-heading">{{ page.title }}</h1>
+          {% if page.url contains "case-studies" %}
+          <ul class="article-location-meta list-dash">
+            <li>{{ page.meta }}</li>
+          </ul>
+          {% else %}
           <ul class="article-date list-dash">
             <li>{{ page.date | date_to_string: "ordinal", "US" }}</li>
           </ul>
+          {% endif %}
           <div class="article-content">{{ content }}</div>
         </div>
       </div>
