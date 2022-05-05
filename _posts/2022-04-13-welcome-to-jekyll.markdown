@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Hotelhelp Group Strengthens Leadership Team to Support its Growth"
-meta: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standards"
-img: "/assets/looking-job-bg.png"
+meta: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standards..."
+img: "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80"
 date: 2022-04-13
 permalink: news/welcome-to-jekyll
 

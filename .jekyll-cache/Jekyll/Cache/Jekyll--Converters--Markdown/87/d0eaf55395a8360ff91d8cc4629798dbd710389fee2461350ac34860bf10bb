@@ -1,0 +1,61 @@
+I"Í
+<div id="news" class="plus-tile-tx">
+	<div class="container">
+		<ul class="list-clear flex fx-apart fx-wrap cards pt-0">
+			
+			<li class="fx-item-2 fx-item-xs-1">
+				<div class="card-item">
+					<a class="card-link" href="/news/welcome-to-jekyll"></a> 
+					<div class="card-image">
+						<img src="https://images.unsplash.com/photo-1518733057094-95b53143d2a7?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" />
+					</div>
+					<div class="card-meta lg">
+						<h2>An exampe of a Hotelhelp news article</h2>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standards...</p>
+					</div>
+				</div>
+			</li>
+			
+			<li class="fx-item-2 fx-item-xs-1">
+				<div class="card-item">
+					<a class="card-link" href="/news/welcome-to-jekyll"></a> 
+					<div class="card-image">
+						<img src="https://images.unsplash.com/photo-1528735000313-039ec3a473b0?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" />
+					</div>
+					<div class="card-meta lg">
+						<h2>Something here about how Hotelhelp is growing as a company</h2>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standards</p>
+					</div>
+				</div>
+			</li>
+			
+			<li class="fx-item-2 fx-item-xs-1">
+				<div class="card-item">
+					<a class="card-link" href="/news/welcome-to-jekyll"></a> 
+					<div class="card-image">
+						<img src="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" />
+					</div>
+					<div class="card-meta lg">
+						<h2>Hotelhelp Group Strengthens Leadership Team to Support its Growth</h2>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standards...</p>
+					</div>
+				</div>
+			</li>
+			
+			<li class="fx-item-2 fx-item-xs-1">
+				<div class="card-item">
+					<a class="card-link" href="/news/welcome-to-jekyll"></a> 
+					<div class="card-image">
+						<img src="https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" />
+					</div>
+					<div class="card-meta lg">
+						<h2>Something here about how Hotelhelp is growing as a company</h2>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standards</p>
+					</div>
+				</div>
+			</li>
+			
+		</ul>
+	</div>
+</div>
+:ET
