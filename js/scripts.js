@@ -9,8 +9,14 @@ $(window).scroll(function() {
     }
 });
 
+// Mobile Toggle
+$("button.hamburger").click(function() {
+  $(this).toggleClass("active");
+  $("#mobile-menu").toggleClass("active");
+  $("body").toggleClass("locked");
+});
+
 // Isitope Init script
- 
 $('.grid').isotope({
     itemSelector: '.grid-item',
     percentPosition: true,

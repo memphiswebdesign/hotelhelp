@@ -6,6 +6,7 @@
   <body>
     <div id="page" class="{{ page.title | slugify }}">
       {% include header.html %}
+      {% include mobile-menu.html %}
       {% if page.url == '/' %}
         {% include home-hero.html %}
       {% else %}

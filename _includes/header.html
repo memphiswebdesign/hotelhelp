@@ -6,7 +6,7 @@
 					<img src="../assets/hotelhelp-logo-w.svg" />
 				</a>
 			</div>
-			<nav>
+			<nav class="mobile-hide">
 				<ul>
 					{% for item in site.data.menu %} 
 					<li {% if item.link == page.url %} class="active"{% endif %}
@@ -14,10 +14,13 @@
 					{% endfor %}
 				</ul>
 			</nav>
-			<div class="cta">
+			<div class="cta mobile-hide">
 				<a class="btn ghost" href="/contact">Contact us</a>
 				<a class="btn" href="/find-a-job" >Find a Job</a>
 			</div>
+			<button class="hamburger mobile-show">
+				<span></span>
+			</button>
 		</div>
 	</div>
 </header> 
