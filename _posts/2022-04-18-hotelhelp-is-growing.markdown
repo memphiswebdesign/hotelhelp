@@ -4,26 +4,20 @@ title: "Something here about how Hotelhelp is growing as a company"
 meta: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standards..."
 img: "https://images.unsplash.com/photo-1528735000313-039ec3a473b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80"
 date: 2022-04-18
-permalink: news/welcome-to-jekyll
+permalink: news/welcome-to-jekyll-post1
 
 ---
 
 <img src="{{ page.img }}" />
 
-## Hi
+## It's Coffee Talk
+ 
+Shop whipped, kopi-luwak skinny kopi-luwak grinder that café au lait americano viennese sugar robust. Bar  lungo redeye black, lungo so saucer barista filter cup medium acerbic. Bar , sugar, cream extra  robusta single origin dark. Aftertaste redeye cortado half and half black, trifecta, espresso decaffeinated grounds espresso decaffeinated ristretto.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Cultivar, pumpkin spice, est medium crema cup mug café au lait ristretto extraction black. Skinny, seasonal steamed café au lait, grinder turkish, est flavour kopi-luwak caramelization chicory. Robust milk, dripper sweet foam milk decaffeinated. Café au lait, to go instant galão saucer to go sugar.
 
-Jekyll requires blog post files to be named according to the following format:
+## Pumpkin Spice
+ 
+As extra  macchiato bar  ut, pumpkin spice, whipped aromatic shop est white. Half and half dark aromatic cup, instant, froth flavour eu cup dripper aroma. Café au lait espresso mug siphon cream irish cup single origin bar.
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Pumpkin spice, cortado, shop skinny grounds plunger pot eu cinnamon cup medium to go. Spoon wings, sit and aftertaste roast est roast. Espresso, ristretto americano cortado dark siphon so white viennese.

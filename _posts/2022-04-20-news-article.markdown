@@ -4,7 +4,7 @@ title: "An exampe of a Hotelhelp news article"
 meta: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standards..."
 img: "https://images.unsplash.com/photo-1518733057094-95b53143d2a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80"
 date: 2022-04-20
-permalink: news/welcome-to-jekyll
+permalink: news/welcome-to-jekyll-post2
 
 ---
 

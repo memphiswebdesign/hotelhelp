@@ -4,24 +4,14 @@ title: "Something here about how Hotelhelp is growing as a company"
 meta: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standards..."
 img: "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80"
 date: 2022-04-06
-permalink: news/welcome-to-jekyll
+permalink: news/welcome-to-jekyll-post3
 
 ---
 
 <img src="{{ page.img }}" />
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## Filler content - more coming soon..
 
-Jekyll requires blog post files to be named according to the following format:
+Funnel social and above all, surprise and delight. Funnel audience segments and then infiltrate new markets. Take a holistic approach in order to disrupt the balance. Growing brand pillars and possibly increase viewability. Creating social so that we use best practice. Targeting best in class and try to further your reach.Considering stakeholder engagement and above all, think outside the box. Build vertical integration in order to be CMSable. Drive user stories in order to create actionable insights. Taking integrated tech stacks with the possibility to target the low hanging fruit. Repurpose empathy maps to create synergy.Target customer journeys while remembering to get buy in. Engaging thought leadership so that we make the logo bigger.
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Synchronising below the line yet get buy in. Demonstrating user engagement to, consequently, create actionable insights. Funnel growth channels in order to funnel users. Taking responsive websites so that we create actionable insights.Drive customer journeys and possibly use best practice. Generating audience segments and then get buy in. Generating mobile-first design but create actionable insights. Taking stakeholder engagement to in turn make users into advocates. Target big data and possibly get buy in. Funnel first party data and above all, make the logo bigger.

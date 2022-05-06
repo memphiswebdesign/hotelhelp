@@ -21,11 +21,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Front Desk service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					{% responsive_image path: assets/service-housekeeping.jpg %}
 				</div>
 			</div>
 		</div>
@@ -40,11 +36,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Front Desk service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					{% responsive_image path: assets/service-housekeeping.jpg %}
 				</div>
 			</div>
 		</div>
@@ -59,11 +51,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Maintenance service"
-						src="../assets/service-maintenance-thumb.png"
-						data-src="../assets/service-maintenance-1440.jpg"
-						class="blur lazyload" />
+					{% responsive_image path: assets/service-maintenance.jpg %}
 				</div>
 			</div>
 		</div>
@@ -78,11 +66,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Lobby Breakfast service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					{% responsive_image path: assets/service-housekeeping.jpg %}
 				</div>
 			</div>
 		</div>
@@ -97,11 +81,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Laundry service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					{% responsive_image path: assets/service-housekeeping.jpg %}
 				</div>
 			</div>
 		</div>
@@ -116,11 +96,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Shuttle service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					{% responsive_image path: assets/service-housekeeping.jpg %}
 				</div>
 			</div>
 		</div>
@@ -135,11 +111,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Banquet service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					{% responsive_image path: assets/service-housekeeping.jpg %}
 				</div>
 			</div>
 		</div>
@@ -154,11 +126,7 @@ permalink: /services
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
 				<div class="border-offset padding-none">
-					<img
-						alt="Hotelhelp Grounds service"
-						src="../assets/service-housekeeping-thumb.png"
-						data-src="../assets/service-housekeeping-1440.jpg"
-						class="blur lazyload" />
+					{% responsive_image path: assets/service-housekeeping.jpg %}
 				</div>
 			</div>
 		</div>

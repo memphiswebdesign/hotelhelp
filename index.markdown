@@ -33,11 +33,7 @@ permalink: /
 						<div class="card-item sm">
 							<a class="card-link" href="#" title="Housekeeping"></a>
 							<div class="card-image">
-								<img
-									alt="Hotelhelp Housekeeping service"
-									src="../assets/service-housekeeping-thumb.png"
-									data-src="../assets/service-housekeeping-720.jpg"
-									class="blur lazyload" />
+								{% responsive_image path: assets/service-housekeeping.jpg %}
 							</div>
 							<div class="card-meta">
 								<h5>Housekeeping</h5>
@@ -81,13 +77,9 @@ permalink: /
 						<div class="card-item sm">
 							<a class="card-link" href="#" title="service-name"></a>
 							<div class="card-image">
-								<img
-									alt="Hotelhelp Maintenance service"
-									src="../assets/service-maintenance-thumb.png"
-									data-src="../assets/service-maintenance-720.jpg"
-									class="blur lazyload" />
+								{% responsive_image path: assets/service-housekeeping.jpg %}
 							</div>
-							<div class="card-meta">
+							<div class="card-meta"> 
 								<h5>Maintenance</h5>
 							</div>
 						</div>

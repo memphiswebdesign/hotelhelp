@@ -5,11 +5,6 @@ subtitle: Providing 5 star hospitality for over 25 years
 permalink: /about
 ---
 
-# Hello World
-
-
-	asdfasddsfadfs
-
 <div id="about" class="plus-tile-tx">
 	<!-- <div class="container">
 		<img src="../assets/hotelhelp-team.jpg" />
@@ -191,6 +186,11 @@ permalink: /about
 					</div>
 				</div>
 			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="mt-4">
+			{% responsive_image path: assets/hotelhelp-team.jpg %}
 		</div>
 	</div>
 </div>

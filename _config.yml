@@ -39,7 +39,21 @@ collections:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-responsive-image
 
+responsive_image:
+  template: _includes/srcset-resized-fallback.html
+  sizes:
+    - width: 100
+      quality: 10
+    - width: 480
+    - width: 800
+    - width: 1400
+  strip: true
+  base_path: assets
+  output_path_format: assets/set/%{width}/%{basename}
+  cache: true
+ 
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
