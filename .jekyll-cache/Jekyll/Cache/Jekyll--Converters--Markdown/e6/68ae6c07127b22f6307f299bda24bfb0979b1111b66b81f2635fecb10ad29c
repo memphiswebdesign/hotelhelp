@@ -1,151 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <!-- head.html -->
-<meta charset="UTF-8" />
-<title>Hotelhelp | Hospitality staffing - Hotelhelp Services</title>
-<!-- Meta Data -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta name="robots" content="index,follow"/>
-<meta name="description" content="We offer exclusive help specific to the Hospitality Industry and offer employees with Hospitality Hearts that are dedicated to the Industry. We make sure to train all of our employees to guarantee outstanding service."/>
-<meta property="og:title" content="Hotelhelp | Hospitality staffing"/>
-<meta property="og:description" content="We offer exclusive help specific to the Hospitality Industry and offer employees with Hospitality Hearts that are dedicated to the Industry. We make sure to train all of our employees to guarantee outstanding service."/>
-<meta property="og:url" content="http://www.hotelhelpservicesinfo.com/">
-<meta property="og:type" content="website"/>
-<meta property="og:image" content="http://localhost:4000/assets/banner.png"/>
-<meta property="og:image:alt" content="We offer exclusive help specific to the Hospitality Industry and offer employees with Hospitality Hearts that are dedicated to the Industry. We make sure to train all of our employees to guarantee outstanding service."/>
-<meta property="og:image:width" content="1200"/>
-<meta property="og:image:height" content="630"/>
-<link rel="canonical" href="/"/>
-
-<!-- Styles -->
-<link rel="stylesheet" href="/css/style.css" />
-<!-- Favicon -->
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon-180.png" />
-<link rel="icon" type="image/png" href="/assets/favicon-32.png" sizes="32x32" />
-<link rel="icon" type="image/png" href="/assets/favicon-16.png" sizes="16x16" />
-<!-- Google Font -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300;400;500&family=Mulish:wght@400;900&display=swap" rel="stylesheet">
-<!-- jQuery -->
-<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
-<!-- jQuery UI -->
-<!-- <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js" integrity="sha256-eTyxS0rkjpLEo16uXTS0uVCS4815lc40K2iVpWDvdSY=" crossorigin="anonymous"></script> -->
-<!-- LazySizes & config -->
-<script>window.lazySizesConfig = window.lazySizesConfig || {};
-lazySizesConfig.loadMode = 1;</script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<!-- Isotope Js - only on Case Studies page -->
-
-
-<!-- Schema -->
-<script type="application/ld+json">
-{
-  "@context" : "http://schema.org",
-  "@type" : "WebSite",
-  "name" : "Hotel Help",
-  "alternateName" : "Hotelhelp",
-  "url" : "http://www.hotelhelpservicesinfo.com/"
-}
-</script>
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "url": "http://www.hotelhelpservicesinfo.com/",
-    "logo": "http://localhost:4000/assets/banner.png",
-    "contactPoint" : [
-    {   "@type" : "ContactPoint",
-        "telephone" : "+1-901-624-5000",
-        "contactType" : "Sales",
-        "contactOption" : "TollFree",
-        "areaServed" : "US",
-        "availableLanguage" : "English"
-} ],
-    "sameAs" : [
-        "https://www.facebook.com/hotelhelp.staffing.services/",
-        "https://www.linkedin.com/company/hotel-help-services/about/"
-    ]
-}
-</script>
-
-  </head>
-  <body> 
-    <div id="page" class="hotelhelp-services">
-      <header>
-	<div class="container center white">
-		<div class="flex fx-apart fx-align-center">
-			<div id="logo">
-				<a href="/">
-					<img src="../assets/hotelhelp-logo-w.svg" />
-				</a>
-			</div>
-			<nav class="mobile-hide">
-				<ul>
-					 
-					<li  class="active"
-					><a href="/services">Services</a></li>
-					 
-					<li 
-					><a href="/case-studies">Case Studies</a></li>
-					 
-					<li 
-					><a href="/about">About</a></li>
-					 
-					<li 
-					><a href="/news">News</a></li>
-					 
-					<li 
-					><a href="/espanol">español</a></li>
-					
-				</ul>
-			</nav>
-			<div class="cta mobile-hide">
-				<a class="btn ghost" href="/contact">Contact us</a>
-				<a class="btn" href="/find-a-job" >Find a Job</a>
-			</div>
-			<button class="hamburger mobile-show">
-				<span></span>
-			</button>
-		</div>
-	</div>
-</header> 
-      <div id="mobile-menu">
-	<div class="border-offset padding-none"></div>
-	<ul class="list-clear">
-		 
-		<li  class="active"
-		><a href="/services">Services</a></li>
-		 
-		<li 
-		><a href="/case-studies">Case Studies</a></li>
-		 
-		<li 
-		><a href="/about">About</a></li>
-		 
-		<li 
-		><a href="/news">News</a></li>
-		 
-		<li 
-		><a href="/espanol">español</a></li>
-		
-	</ul>
-	<div class="mobile-cta">
-		<a class="btn ghost" href="/contact">Contact us</a>
-		<a class="btn" href="/find-a-job" >Find a Job</a>
-	</div>
-</div>
-      
-        <section id="hero" class="default">
-	<div class="container center">
-		<pre class="hero-title">Hotelhelp Services</pre>
-		<div class="hero-sub-title">Trained & job ready staffing for your organization</div>
-	</div>
-</section>
-       
-      <div id="content"><div id="services" class="plus-tile-tx pb-3">
+I"0.<div id="services" class="plus-tile-tx pb-3">
 	<div class="container thiner py-2 px-3 px-sm-1 center">
 		<pre>Trusted &amp; Dependent</pre>
 		<h1 class="mt-0">We provide solutions in several types of employment relationships</h1>
@@ -353,12 +206,15 @@ lazySizesConfig.loadMode = 1;</script>
 	</div>
 	<div class="container">
 		<div class="flex fx-apart fx-wrap cards center">
-			
-			<div class="fx-item-3 fx-item-sm-2 fx-item-xs-1">
+			<!-- <div class="fx-item-3 fx-item-sm-2 fx-item-xs-1">
 				<div class="card-item">
-					<a class="card-link" href="/case-studies/austin-marriott-downtown" alt="hotel-name"></a>
+					<a class="card-link" href="#" alt="hotel-name"></a>
 					<div class="card-image">
-						<img src="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" />
+						<img
+							alt="hotel name case study"
+							src="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=108&h=72&q=10"
+							data-src="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80"
+							class="blur lazyload" />
 					</div>
 					<div class="card-meta">
 						<h4>Austin Marriott Downtown</h4>
@@ -366,45 +222,55 @@ lazySizesConfig.loadMode = 1;</script>
 					</div>
 				</div>
 			</div>
-			
 			<div class="fx-item-3 fx-item-sm-2 fx-item-xs-1">
 				<div class="card-item">
-					<a class="card-link" href="/case-studies/beachside-resort-hotel" alt="hotel-name"></a>
+					<a class="card-link" href="#" alt="hotel-name"></a>
 					<div class="card-image">
-						<img src="https://images.unsplash.com/photo-1528735000313-039ec3a473b0?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" />
+						<img
+							alt="hotel name case study"
+							src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=108&h=72&q=10"
+							data-src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80"
+							class="blur lazyload" />
 					</div>
 					<div class="card-meta">
-						<h4>Beachside Resort Hotel</h4>
-						<p>Gulf Shores, AL</p>
+						<h4>Sheraton Memphis Downtown</h4>
+						<p>Memphis, TN</p>
 					</div>
 				</div>
 			</div>
-			
 			<div class="fx-item-3 fx-item-sm-2 fx-item-xs-1">
 				<div class="card-item">
-					<a class="card-link" href="/case-studies/example-case-nashville" alt="hotel-name"></a>
+					<a class="card-link" href="#" alt="hotel-name"></a>
 					<div class="card-image">
-						<img src="https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" />
+						<img
+							alt="hotel name case study"
+							src="https://images.unsplash.com/photo-1518733057094-95b53143d2a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=108&h=72&q=10"
+							data-src="https://images.unsplash.com/photo-1518733057094-95b53143d2a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80"
+							class="blur lazyload" />
 					</div>
 					<div class="card-meta">
-						<h4>Example Case Study</h4>
-						<p>Nashville, TN</p>
+						<h4>Residence Inn Flagstaff</h4>
+						<p>Flagstaff, AZ</p>
 					</div>
 				</div>
-			</div>
+			</div> -->
+			
+				https://images.unsplash.com/photo-1518733057094-95b53143d2a7?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80
+				/news/welcome-to-jekyll-post2
+				An exampe of a Hotelhelp news article
+				Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standards...
+			
+				https://images.unsplash.com/photo-1528735000313-039ec3a473b0?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80
+				/news/welcome-to-jekyll-post1
+				Something here about how Hotelhelp is growing as a company
+				Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standards...
+			
+				https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80
+				/news/welcome-to-jekyll-post4
+				Hotelhelp Group Strengthens Leadership Team to Support its Growth
+				Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standards...
 			
 		</div>
 	</div>
 </section>
-</div>
-      <footer>
-	<div class="container center white">
-		<div class="footer-logo"><img src="../assets/hotelhelp-logo-w.svg" /></div>
-		<p>Call us: <a href="tel:9016245000">901-624-5000</a></p>
-		<p>Hotelhelp!&reg; are all registered service marks of Hotel help services, Inc.</p>
-	</div>
-</footer>
-      <script src="../js/scripts.js"></script>
-    </div>
-  </body>
-</html>
+:ET

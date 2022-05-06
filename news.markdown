@@ -18,7 +18,7 @@ permalink: /news
 					</div>
 					<div class="card-meta lg">
 						<h2>{{ post.title }}</h2>
-						<p>{{ post.meta }}</p>
+						<p>{{ post.meta | truncate: 55 }}</p>
 					</div>
 				</div>
 			</li>
