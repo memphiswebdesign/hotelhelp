@@ -14,6 +14,10 @@
               <a href="/case-studies">
                 <span>{% include left-arrow.html %}</span>
                 All Case Studies</a>
+            {% elsif page.url contains "services" %}
+              <a href="/services">
+                <span>{% include left-arrow.html %}</span>
+                All Services</a>
             {% else %}
               <a href="/news">
                 <span>{% include left-arrow.html %}</span>
@@ -25,6 +29,7 @@
           <ul class="article-location-meta list-dash">
             <li>{{ page.meta }}</li>
           </ul>
+          {% elsif page.url contains "services" %}
           {% else %}
           <ul class="article-date list-dash"> 
             <li>{{ page.date | date_to_string: "ordinal", "US" }}</li>

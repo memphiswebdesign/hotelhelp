@@ -31,10 +31,10 @@ permalink: /
 				<div class="flex fx-apart fx-wrap cards center">
 					<div class="fx-item-2">
 						<div class="card-item sm">
-							<a class="card-link" href="#" title="Housekeeping"></a>
+							<a class="card-link" href="/services/housekeeping" title="Housekeeping"></a>
 							<div class="card-image">
 								{% responsive_image path: assets/service-housekeeping.jpg %}
-							</div>
+							</div> 
 							<div class="card-meta">
 								<h5>Housekeeping</h5>
 							</div>
@@ -42,9 +42,9 @@ permalink: /
 					</div>
 					<div class="fx-item-2">
 						<div class="card-item sm">
-							<a class="card-link" href="#" title="service-name"></a>
+							<a class="card-link" href="/services/laundry" title="Laundry"></a>
 							<div class="card-image">
-								<img src="https://images.unsplash.com/photo-1556745753-b2904692b3cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&height=480&q=80" alt="service photo">
+								{% responsive_image path: assets/service-laundry.jpg %}
 							</div>
 							<div class="card-meta">
 								<h5>Laundry</h5>
@@ -53,9 +53,9 @@ permalink: /
 					</div>
 					<div class="fx-item-2">
 						<div class="card-item sm">
-							<a class="card-link" href="#" title="service-name"></a>
+							<a class="card-link" href="/services/front-desk" title="Front Desk"></a>
 							<div class="card-image">
-								<img src="https://images.unsplash.com/photo-1556745753-b2904692b3cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&height=480&q=80" alt="service photo">
+								{% responsive_image path: assets/service-lobby.jpg %}
 							</div>
 							<div class="card-meta">
 								<h5>Front Desk</h5>
@@ -64,9 +64,9 @@ permalink: /
 					</div>
 					<div class="fx-item-2">
 						<div class="card-item sm">
-							<a class="card-link" href="#" title="service-name"></a>
+							<a class="card-link" href="/services/shuttle" title="Shuttle service"></a>
 							<div class="card-image">
-								<img src="https://images.unsplash.com/photo-1556745753-b2904692b3cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&height=480&q=80" alt="service photo">
+								{% responsive_image path: assets/service-shuttle.jpg %}
 							</div>
 							<div class="card-meta">
 								<h5>Shuttle</h5>
@@ -75,9 +75,9 @@ permalink: /
 					</div>
 					<div class="fx-item-2">
 						<div class="card-item sm">
-							<a class="card-link" href="#" title="service-name"></a>
+							<a class="card-link" href="/services/maintenance" title="maintenance"></a>
 							<div class="card-image">
-								{% responsive_image path: assets/service-housekeeping.jpg %}
+								{% responsive_image path: assets/service-maintenance.jpg %}
 							</div>
 							<div class="card-meta"> 
 								<h5>Maintenance</h5>
@@ -86,9 +86,9 @@ permalink: /
 					</div>
 					<div class="fx-item-2">
 						<div class="card-item sm">
-							<a class="card-link" href="#" title="service-name"></a>
+							<a class="card-link" href="/services/banquet" title="banquet service"></a>
 							<div class="card-image">
-								<img src="https://images.unsplash.com/photo-1556745753-b2904692b3cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&height=480&q=80" alt="service photo">
+								{% responsive_image path: assets/service-banquet.jpg %}
 							</div>
 							<div class="card-meta">
 								<h5>Banquet</h5>
@@ -97,9 +97,9 @@ permalink: /
 					</div>
 					<div class="fx-item-2">
 						<div class="card-item sm">
-							<a class="card-link" href="#" title="service-name"></a>
+							<a class="card-link" href="/services/lobby-breakfast" title="Lobby Breakfast"></a>
 							<div class="card-image">
-								<img src="https://images.unsplash.com/photo-1556745753-b2904692b3cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&height=480&q=80" alt="service photo">
+								{% responsive_image path: assets/service-breakfast.jpg %}
 							</div>
 							<div class="card-meta">
 								<h5>Lobby Breakfast</h5>
@@ -108,9 +108,9 @@ permalink: /
 					</div>
 					<div class="fx-item-2">
 						<div class="card-item sm">
-							<a class="card-link" href="#" title="service-name"></a>
+							<a class="card-link" href="/services/grounds" title="Grounds Landscaper"></a>
 							<div class="card-image">
-								<img src="https://images.unsplash.com/photo-1556745753-b2904692b3cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&height=480&q=80" alt="service photo">
+								{% responsive_image path: assets/service-landscaper.jpg %}
 							</div>
 							<div class="card-meta">
 								<h5>Grounds</h5>

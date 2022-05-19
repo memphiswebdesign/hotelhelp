@@ -1,0 +1,173 @@
+I"´<div id="about" class="plus-tile-tx">
+	<!-- <div class="container">
+		<img src="../assets/hotelhelp-team.jpg" />
+	</div> -->
+	<div class="container thiner py-2">
+		<h2 class="mt-0">Providing 5 star hospitality for over 25 years</h2>
+		<p>At HOTELhelp, we understand first hand the hiring needs of hotels. How? Because, most of our hotel recruitment experts come from a hospitality background, including luxury, branded and boutique hotels. Because of this experience, we know exactly where to find the best candidates for your hotel. We offer a variety of recruiting options for hotels and can create custom solutions for your specific needs and budgetary constraints.</p>
+		<p class="mb-2">The Hotel Industry has over the years gone through many changes. One area that never changes is the one on one relationship that our front line employees have with our Guests. It is important that this relationship be the TOP priority when hiring our employees. Not only do we have a responsibility to our parent companies to offer the best accommodations and services we also have the responsibility of staying within our budget and still offer the best Guest Satisfaction available.</p>
+		<a href="/contact" class="btn">Join the team</a>
+	</div>
+	<div class="container">
+		<hr class="mt-3 mb-3" />
+		<div class="flex fx-apart fx-wrap cards center pt-0">
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jeff Byars | President/Founder" data-src="/assets/jeff-byars.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Jeff Byars</h4>
+						<p>President/Founder</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Jason Harris | Chief Operating Officer" data-src="/assets/jason-harris.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Jason Harris</h4>
+						<p>Chief Operating Officer</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Ray Barton | VP of Sales &amp; Marketing" data-src="/assets/team-pl.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Ray Barton</h4>
+						<p>VP of Sales &amp; Marketing</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Hal Smith | VP of East Coast Operations" data-src="/assets/hal-smith.png" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Hal Smith</h4>
+						<p>VP of East Coast Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Tou B. Lee | Controller" data-src="/assets/team-pl.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Tou B. Lee</h4>
+						<p>Controller</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Ana Rodriguez | Accounting" data-src="/assets/team-pl.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Ana Rodriguez</h4>
+						<p>Accounting</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Montserrat Estrada | Office Manager/Recruiter" data-src="/assets/team-pl.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Montserrat Estrada</h4>
+						<p>Office Manager/Recruiter</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Name | Title" data-src="/assets/team-pl.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Name</h4>
+						<p>Title</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Name | Title" data-src="/assets/team-pl.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Name</h4>
+						<p>Title</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Name | Title" data-src="/assets/team-pl.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Name</h4>
+						<p>Title</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Name | Title" data-src="/assets/team-pl.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Name</h4>
+						<p>Title</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Name | Title" data-src="/assets/team-pl.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Name</h4>
+						<p>Title</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="mt-4">
+			
+
+
+
+
+<img data-sizes="auto" src="/assets/set/100/hotelhelp-team.jpg" data-srcset="
+/assets/set/480/hotelhelp-team.jpg 500w,
+/assets/set/800/hotelhelp-team.jpg 768w,
+/assets/set/1400/hotelhelp-team.jpg 1280w,
+/assets/hotelhelp-team.jpg" class="lazyload blur" />
+		</div>
+	</div>
+</div>
+
+<section class="staffing-cta">
+	<div class="container thiner center">
+		<div class="border-offset">
+			<h2 class="mt-0">Looking for Staffing?</h2>
+			<p class="mb-2">Our services are designed to help you make the most effective hiring decisions for your organization.</p>
+			<a href="/contact" class="btn">Contact us</a>
+		</div>
+	</div>
+</section>
+:ET

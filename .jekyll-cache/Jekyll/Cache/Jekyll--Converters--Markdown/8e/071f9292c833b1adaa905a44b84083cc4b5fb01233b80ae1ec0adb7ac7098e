@@ -1,0 +1,192 @@
+I"C<div id="case-studies" class="plus-tile-tx">
+	<!-- Isotope JS Filters -->
+	<div class="container">
+		<div class="filters">
+			<ul class="center">
+				<li class="btn ghost active" data-filter="*">All</li>
+				<li data-filter=".one" class="btn ghost">Filter 1</li>
+				<li data-filter=".two" class="btn ghost">Filter 2</li>
+				<li data-filter=".three" class="btn ghost">Filter 3</li>
+			</ul>
+		</div>
+	</div>
+	<!-- Isotope JS Grid -->
+	<!-- <div class="container">
+		<div class="flex fx-apart fx-wrap cards center grid">
+			<div class="grid-sizer"></div>
+			
+			<div class="grid-item one two">
+				<div class="card-item">
+					<a class="card-link" href="/case-studies/austin-marriott-downtown" alt="Austin Marriott Downtown"></a>
+					<div class="card-image">
+						<img class="" src="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80" alt="Austin Marriott Downtown" />
+					</div>
+					<div class="card-meta">
+						<h4>Austin Marriott Downtown</h4>
+						<p>Austin, Texas</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="grid-item two">
+				<div class="card-item">
+					<a class="card-link" href="/case-studies/beachside-resort-hotel" alt="Beachside Resort Hotel"></a>
+					<div class="card-image">
+						<img class="" src="https://images.unsplash.com/photo-1528735000313-039ec3a473b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80" alt="Beachside Resort Hotel" />
+					</div>
+					<div class="card-meta">
+						<h4>Beachside Resort Hotel</h4>
+						<p>Gulf Shores, AL</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="grid-item one three">
+				<div class="card-item">
+					<a class="card-link" href="/case-studies/example-case-nashville" alt="Example Case Study"></a>
+					<div class="card-image">
+						<img class="" src="https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80" alt="Example Case Study" />
+					</div>
+					<div class="card-meta">
+						<h4>Example Case Study</h4>
+						<p>Nashville, TN</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="grid-item three">
+				<div class="card-item">
+					<a class="card-link" href="/case-studies/residence-inn-flagstaff" alt="Residence Inn Flagstaff"></a>
+					<div class="card-image">
+						<img class="" src="https://images.unsplash.com/photo-1518733057094-95b53143d2a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80" alt="Residence Inn Flagstaff" />
+					</div>
+					<div class="card-meta">
+						<h4>Residence Inn Flagstaff</h4>
+						<p>Flagstaff, AZ</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="grid-item two three">
+				<div class="card-item">
+					<a class="card-link" href="/case-studies/sheraton-memphis-downtown" alt="Sheraton Memphis Downtown"></a>
+					<div class="card-image">
+						<img class="" src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80" alt="Sheraton Memphis Downtown" />
+					</div>
+					<div class="card-meta">
+						<h4>Sheraton Memphis Downtown</h4>
+						<p>Memphis, TN</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="grid-item one">
+				<div class="card-item">
+					<a class="card-link" href="/case-studies/staybridge-suites-tampa" alt="Staybridge Suites Tampa"></a>
+					<div class="card-image">
+						<img class="" src="https://images.unsplash.com/photo-1560200353-ce0a76b1d438?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&h=720&q=80" alt="Staybridge Suites Tampa" />
+					</div>
+					<div class="card-meta">
+						<h4>Staybridge Suites Tampa</h4>
+						<p>Tampa, FL</p>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div> -->
+	<div class="container">
+		<div class="flex fx-wrap cards center">
+			
+			<div class="fx-item-3 fx-item-sm-2 one two">
+				<div class="card-item">
+					<a class="card-link" href="/case-studies/austin-marriott-downtown" alt="Austin Marriott Downtown"></a>
+					<div class="card-image">
+						<img class="" src="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" alt="Austin Marriott Downtown" />
+					</div>
+					<div class="card-meta">
+						<h4>Austin Marriott Downtown</h4>
+						<p>Austin, Texas</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="fx-item-3 fx-item-sm-2 two">
+				<div class="card-item">
+					<a class="card-link" href="/case-studies/beachside-resort-hotel" alt="Beachside Resort Hotel"></a>
+					<div class="card-image">
+						<img class="" src="https://images.unsplash.com/photo-1528735000313-039ec3a473b0?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" alt="Beachside Resort Hotel" />
+					</div>
+					<div class="card-meta">
+						<h4>Beachside Resort Hotel</h4>
+						<p>Gulf Shores, AL</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="fx-item-3 fx-item-sm-2 one three">
+				<div class="card-item">
+					<a class="card-link" href="/case-studies/example-case-nashville" alt="Example Case Study"></a>
+					<div class="card-image">
+						<img class="" src="https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" alt="Example Case Study" />
+					</div>
+					<div class="card-meta">
+						<h4>Example Case Study</h4>
+						<p>Nashville, TN</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="fx-item-3 fx-item-sm-2 three">
+				<div class="card-item">
+					<a class="card-link" href="/case-studies/residence-inn-flagstaff" alt="Residence Inn Flagstaff"></a>
+					<div class="card-image">
+						<img class="" src="https://images.unsplash.com/photo-1518733057094-95b53143d2a7?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" alt="Residence Inn Flagstaff" />
+					</div>
+					<div class="card-meta">
+						<h4>Residence Inn Flagstaff</h4>
+						<p>Flagstaff, AZ</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="fx-item-3 fx-item-sm-2 two three">
+				<div class="card-item">
+					<a class="card-link" href="/case-studies/sheraton-memphis-downtown" alt="Sheraton Memphis Downtown"></a>
+					<div class="card-image">
+						<img class="" src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" alt="Sheraton Memphis Downtown" />
+					</div>
+					<div class="card-meta">
+						<h4>Sheraton Memphis Downtown</h4>
+						<p>Memphis, TN</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="fx-item-3 fx-item-sm-2 one">
+				<div class="card-item">
+					<a class="card-link" href="/case-studies/staybridge-suites-tampa" alt="Staybridge Suites Tampa"></a>
+					<div class="card-image">
+						<img class="" src="https://images.unsplash.com/photo-1560200353-ce0a76b1d438?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=720&amp;q=80" alt="Staybridge Suites Tampa" />
+					</div>
+					<div class="card-meta">
+						<h4>Staybridge Suites Tampa</h4>
+						<p>Tampa, FL</p>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+<section class="staffing-cta">
+	<div class="container thiner center">
+		<div class="border-offset">
+			<h2 class="mt-0">Looking for Staffing?</h2>
+			<p class="mb-2">Our services are designed to help you make the most effective hiring decisions for your organization.</p>
+			<a href="/contact" class="btn">Contact us</a>
+		</div>
+	</div>
+</section>
+:ET

@@ -17,18 +17,18 @@ permalink: /about
 	</div>
 	<div class="container">
 		<hr class="mt-3 mb-3">
-		<div class="flex fx-apart fx-wrap cards center pt-0">
+		<div class="flex fx-wrap cards center pt-0">
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Jason Harris - Hotelhelp team member"
-							data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=440&h=440&q=80"
+							alt="Jeff Byars | President/Founder"
+							data-src="/assets/jeff-byars.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Jason Harris</h4>
-						<p>Regional Director of Operations</p>
+						<h4>Jeff Byars</h4>
+						<p>President/Founder</p>
 					</div>
 				</div>
 			</div>
@@ -36,13 +36,13 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Jason Harris - Hotelhelp team member"
-							data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=440&h=440&q=80"
+							alt="Jason Harris | Chief Operating Officer"
+							data-src="/assets/jason-harris.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Jason Harris</h4>
-						<p>Regional Director of Operations</p>
+						<p>Chief Operating Officer</p>
 					</div>
 				</div>
 			</div>
@@ -50,13 +50,13 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Jason Harris - Hotelhelp team member"
-							data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=440&h=440&q=80"
+							alt="Ray Barton | VP of Sales & Marketing"
+							data-src="/assets/team-pl.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Jason Harris</h4>
-						<p>Regional Director of Operations</p>
+						<h4>Ray Barton</h4>
+						<p>VP of Sales & Marketing</p>
 					</div>
 				</div>
 			</div>
@@ -64,13 +64,13 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Jason Harris - Hotelhelp team member"
-							data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=440&h=440&q=80"
+							alt="Hal Smith | VP of East Coast Operations"
+							data-src="/assets/hal-smith.png"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Jason Harris</h4>
-						<p>Regional Director of Operations</p>
+						<h4>Hal Smith</h4>
+						<p>VP of East Coast Operations</p>
 					</div>
 				</div>
 			</div>
@@ -78,13 +78,13 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Jason Harris - Hotelhelp team member"
-							data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=440&h=440&q=80"
+							alt="Tou B. Lee | Controller"
+							data-src="/assets/team-pl.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Jason Harris</h4>
-						<p>Regional Director of Operations</p>
+						<h4>Tou B. Lee</h4>
+						<p>Controller</p>
 					</div>
 				</div>
 			</div>
@@ -92,13 +92,13 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Jason Harris - Hotelhelp team member"
-							data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=440&h=440&q=80"
+							alt="Ana Rodriguez | Accounting"
+							data-src="/assets/team-pl.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Jason Harris</h4>
-						<p>Regional Director of Operations</p>
+						<h4>Ana Rodriguez</h4>
+						<p>Accounting</p>
 					</div>
 				</div>
 			</div>
@@ -106,13 +106,13 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Jason Harris - Hotelhelp team member"
-							data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=440&h=440&q=80"
+							alt="Montserrat Estrada | Office Manager/Recruiter"
+							data-src="/assets/montserrat-estrada.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Jason Harris</h4>
-						<p>Regional Director of Operations</p>
+						<h4>Montserrat Estrada</h4>
+						<p>Office Manager/Recruiter</p>
 					</div>
 				</div>
 			</div>
@@ -120,13 +120,13 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Jason Harris - Hotelhelp team member"
-							data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=440&h=440&q=80"
+							alt="Radames Pina | Midwest Area Recruiter"
+							data-src="/assets/radames-pina.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Jason Harris</h4>
-						<p>Regional Director of Operations</p>
+						<h4>Radames Pina</h4>
+						<p>Midwest Area Recruiter</p>
 					</div>
 				</div>
 			</div>
@@ -134,13 +134,13 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Jason Harris - Hotelhelp team member"
-							data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=440&h=440&q=80"
+							alt="Jaclyn Van Frank | Corporate Account Receivables"
+							data-src="/assets/jaclyn-van-frank.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Jason Harris</h4>
-						<p>Regional Director of Operations</p>
+						<h4>Jaclyn Van Frank</h4>
+						<p>Corporate Account Receivables</p>
 					</div>
 				</div>
 			</div>
@@ -148,13 +148,13 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Jason Harris - Hotelhelp team member"
-							data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=440&h=440&q=80"
+							alt="Zulema Maldonado | Nashville Manager/Recruiter"
+							data-src="/assets/team-pl.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Jason Harris</h4>
-						<p>Regional Director of Operations</p>
+						<h4>Zulema Maldonado</h4>
+						<p>Nashville Manager / Recruiter</p>
 					</div>
 				</div>
 			</div>
@@ -162,13 +162,13 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Jason Harris - Hotelhelp team member"
-							data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=440&h=440&q=80"
+							alt="Deborah Scott | North East Area Coordinator"
+							data-src="/assets/deborah-scott.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Jason Harris</h4>
-						<p>Regional Director of Operations</p>
+						<h4>Deborah Scott</h4>
+						<p>North East Area Coordinator</p>
 					</div>
 				</div>
 			</div>
@@ -176,16 +176,45 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Jason Harris - Hotelhelp team member"
-							data-src="https://images.unsplash.com/photo-1633367583895-08545d733dfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=440&h=440&q=80"
+							alt="Brock Mullens | HR/Compliance"
+							data-src="/assets/team-pl.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Jason Harris</h4>
-						<p>Regional Director of Operations</p>
+						<h4>Brock Mullens</h4>
+						<p>HR/Compliance</p>
 					</div>
 				</div>
 			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img
+							alt="Eunice Alba | Recruiter"
+							data-src="/assets/team-pl.jpg"
+							class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Eunice Alba</h4>
+						<p>Recruiter</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img
+							alt="Joselin Jimenez | Nashville Office Manager/Recruiter"
+							data-src="/assets/team-pl.jpg"
+							class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Joselin Jimenez</h4>
+						<p>Nashville Office Manager/Recruiter</p>
+					</div>
+				</div>
+			</div>
+
 		</div>
 	</div>
 	<div class="container">
