@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hotelhelp | Hospitality staffing
+title: Hotelhelp | Hospitality outsourcing
 email: raybarton@hotelhelpservices.com
 description: >- # this means to ignore newlines until "baseurl:"
   We offer exclusive help specific to the Hospitality Industry and offer

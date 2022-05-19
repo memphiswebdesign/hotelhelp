@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hotelhelp Services
-subtitle: Trained & job ready staffing for your organization
+subtitle: Trained & job ready outsourcing for your organization
 permalink: /services
 ---
 

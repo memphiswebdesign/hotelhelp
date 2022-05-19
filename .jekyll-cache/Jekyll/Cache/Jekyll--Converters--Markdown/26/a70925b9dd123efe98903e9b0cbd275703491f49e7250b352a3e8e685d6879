@@ -1,4 +1,4 @@
-I"@<div id="about" class="plus-tile-tx">
+I"¼<div id="about" class="plus-tile-tx">
 	<!-- <div class="container">
 		<img src="../assets/hotelhelp-team.jpg" />
 	</div> -->
@@ -10,7 +10,7 @@
 	</div>
 	<div class="container">
 		<hr class="mt-3 mb-3" />
-		<div class="flex fx-apart fx-wrap cards center pt-0">
+		<div class="flex fx-wrap cards center pt-0">
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
@@ -47,7 +47,7 @@
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Hal Smith | VP of East Coast Operations" data-src="/assets/hal-smith.jpg" class="lazyload" />
+						<img alt="Hal Smith | VP of East Coast Operations" data-src="/assets/hal-smith.png" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Hal Smith</h4>
@@ -58,91 +58,114 @@
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Name | Title" data-src="/assets/team-pl.jpg" class="lazyload" />
+						<img alt="Tou B. Lee | Controller" data-src="/assets/team-pl.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Name</h4>
-						<p>Title</p>
+						<h4>Tou B. Lee</h4>
+						<p>Controller</p>
 					</div>
 				</div>
 			</div>
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Name | Title" data-src="/assets/team-pl.jpg" class="lazyload" />
+						<img alt="Ana Rodriguez | Accounting" data-src="/assets/team-pl.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Name</h4>
-						<p>Title</p>
+						<h4>Ana Rodriguez</h4>
+						<p>Accounting</p>
 					</div>
 				</div>
 			</div>
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Name | Title" data-src="/assets/team-pl.jpg" class="lazyload" />
+						<img alt="Montserrat Estrada | Office Manager/Recruiter" data-src="/assets/montserrat-estrada.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Name</h4>
-						<p>Title</p>
+						<h4>Montserrat Estrada</h4>
+						<p>Office Manager/Recruiter</p>
 					</div>
 				</div>
 			</div>
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Name | Title" data-src="/assets/team-pl.jpg" class="lazyload" />
+						<img alt="Radames Pina | Midwest Area Recruiter" data-src="/assets/radames-pina.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Name</h4>
-						<p>Title</p>
+						<h4>Radames Pina</h4>
+						<p>Midwest Area Recruiter</p>
 					</div>
 				</div>
 			</div>
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Name | Title" data-src="/assets/team-pl.jpg" class="lazyload" />
+						<img alt="Jaclyn Van Frank | Corporate Account Receivables" data-src="/assets/jaclyn-van-frank.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Name</h4>
-						<p>Title</p>
+						<h4>Jaclyn Van Frank</h4>
+						<p>Corporate Account Receivables</p>
 					</div>
 				</div>
 			</div>
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Name | Title" data-src="/assets/team-pl.jpg" class="lazyload" />
+						<img alt="Zulema Maldonado | Nashville Manager/Recruiter" data-src="/assets/team-pl.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Name</h4>
-						<p>Title</p>
+						<h4>Zulema Maldonado</h4>
+						<p>Nashville Manager / Recruiter</p>
 					</div>
 				</div>
 			</div>
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Name | Title" data-src="/assets/team-pl.jpg" class="lazyload" />
+						<img alt="Deborah Scott | North East Area Coordinator" data-src="/assets/deborah-scott.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Name</h4>
-						<p>Title</p>
+						<h4>Deborah Scott</h4>
+						<p>North East Area Coordinator</p>
 					</div>
 				</div>
 			</div>
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Name | Title" data-src="/assets/team-pl.jpg" class="lazyload" />
+						<img alt="Brock Mullens | HR/Compliance" data-src="/assets/team-pl.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Name</h4>
-						<p>Title</p>
+						<h4>Brock Mullens</h4>
+						<p>HR/Compliance</p>
 					</div>
 				</div>
 			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Eunice Alba | Recruiter" data-src="/assets/team-pl.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Eunice Alba</h4>
+						<p>Recruiter</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Joselin Jimenez | Nashville Office Manager/Recruiter" data-src="/assets/team-pl.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Joselin Jimenez</h4>
+						<p>Nashville Office Manager/Recruiter</p>
+					</div>
+				</div>
+			</div>
+
 		</div>
 	</div>
 	<div class="container">
@@ -164,7 +187,7 @@
 <section class="staffing-cta">
 	<div class="container thiner center">
 		<div class="border-offset">
-			<h2 class="mt-0">Looking for Staffing?</h2>
+			<h2 class="mt-0">Looking for Outsourcing?</h2>
 			<p class="mb-2">Our services are designed to help you make the most effective hiring decisions for your organization.</p>
 			<a href="/contact" class="btn">Contact us</a>
 		</div>
