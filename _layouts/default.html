@@ -7,7 +7,7 @@
     <div id="page" class="{{ page.title | slugify }}">
       {% include header.html %}
       {% include mobile-menu.html %}
-      {% if page.url == '/' %}
+      {% if page.url == '/home' %}
         {% include home-hero.html %}
       {% else %}
         {% include default-hero.html %}
