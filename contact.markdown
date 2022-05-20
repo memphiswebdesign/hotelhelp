@@ -44,31 +44,37 @@ permalink: /contact
 				  data-netlify="true"
 				>
 					<p>
-						<label><span>Your Name:</span>
+						<label><span>Full Name:</span>
 							<input type="text" name="name" />
 						</label>
 					</p>
 					<p>
-						<label><span>Your Email:</span>
+						<label><span>Email:</span>
 							<input type="email" name="email" />
 						</label>
 					</p>
 					<p>
-						<label>
-							<span>Your Role:</span>
-							<select name="role[]">
-								<option value="leader">Leader</option>
-								<option value="follower">Follower</option>
-							</select>
+						<label><span>Phone:</span>
+							<input type="tel" name="phone" />
 						</label>
 					</p>
 					<p>
+						<label>
+							<span>How can we help?</span>
+							<select name="role[]">
+								<option value="general">General Contact</option>
+								<option value="job">Looking for a Job</option>
+								<option value="outsourcing">Looking for Outsourcing</option>
+							</select>
+						</label>
+					</p>
+					<!-- <p>
 						<label>
 							<span>Add file:</span>
 							<input name="file" type="file"/>
 							<span class="note">1 file - Max size 8 MB.</span>
 						</label>
-					</p>
+					</p> -->
 					<p>
 						<label>
 							<span>Message:</span>
