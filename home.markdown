@@ -62,7 +62,7 @@ permalink: /home
 							</div>
 						</div>
 					</div>
-					<div class="fx-item-2">
+					<!-- <div class="fx-item-2">
 						<div class="card-item sm">
 							<a class="card-link" href="/services/shuttle" title="Shuttle service"></a>
 							<div class="card-image">
@@ -72,7 +72,7 @@ permalink: /home
 								<h5>Shuttle</h5>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="fx-item-2">
 						<div class="card-item sm">
 							<a class="card-link" href="/services/maintenance" title="maintenance"></a>
