@@ -1081,11 +1081,11 @@ form span {
 form input,
 form select,
 form textarea {
-	appearance: none;
 	font-size: 16px;
 	border: 1px solid #aaa;
 	padding: 5px 10px;
 	width: 100%;
+	background: #fff!important;
 }
 form input,
 form select {height: 40px;}
