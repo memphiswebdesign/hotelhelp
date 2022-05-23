@@ -1,11 +1,4 @@
----
-layout: default 
-title: About Hotelhelp
-subtitle: Providing 5 star hospitality for over 25 years
-permalink: /about
----
-
-<div id="about" class="plus-tile-tx">
+I"´<div id="about" class="plus-tile-tx">
 	<!-- <div class="container">
 		<img src="../assets/hotelhelp-team.jpg" />
 	</div> -->
@@ -16,15 +9,12 @@ permalink: /about
 		<a href="/contact" class="btn">Join the team</a>
 	</div>
 	<div class="container">
-		<hr class="mt-3 mb-3">
+		<hr class="mt-3 mb-3" />
 		<div class="flex fx-wrap cards center pt-0">
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Jeff Byars | President/Founder"
-							data-src="/assets/jeff-byars.jpg"
-							class="lazyload" />
+						<img alt="Jeff Byars | President/Founder" data-src="/assets/jeff-byars.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Jeff Byars</h4>
@@ -35,10 +25,7 @@ permalink: /about
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Jason Harris | Chief Operating Officer"
-							data-src="/assets/jason-harris.jpg"
-							class="lazyload" />
+						<img alt="Jason Harris | Chief Operating Officer" data-src="/assets/jason-harris.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Jason Harris</h4>
@@ -49,24 +36,18 @@ permalink: /about
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Ray Barton | VP of Sales & Marketing"
-							data-src="/assets/team-pl.jpg"
-							class="lazyload" />
+						<img alt="Ray Barton | VP of Sales &amp; Marketing" data-src="/assets/team-pl.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Ray Barton</h4>
-						<p>VP of Sales & Marketing</p>
+						<p>VP of Sales &amp; Marketing</p>
 					</div>
 				</div>
 			</div>
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Hal Smith | VP of East Coast Operations"
-							data-src="/assets/hal-smith.png"
-							class="lazyload" />
+						<img alt="Hal Smith | VP of East Coast Operations" data-src="/assets/hal-smith.png" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Hal Smith</h4>
@@ -77,24 +58,7 @@ permalink: /about
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Mike Inkster | Chief Operating Officer"
-							data-src="/assets/mike-inkster.jpg"
-							class="lazyload" />
-					</div>
-					<div class="card-meta sm">
-						<h4>Mike Inkster</h4>
-						<p>Chief Operating Officer</p>
-					</div>
-				</div>
-			</div>
-			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
-				<div class="card-item">
-					<div class="card-image">
-						<img
-							alt="Tou B. Lee | Controller"
-							data-src="/assets/team-pl.jpg"
-							class="lazyload" />
+						<img alt="Tou B. Lee | Controller" data-src="/assets/team-pl.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Tou B. Lee</h4>
@@ -105,10 +69,7 @@ permalink: /about
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Ana Rodriguez | Accounting"
-							data-src="/assets/team-pl.jpg"
-							class="lazyload" />
+						<img alt="Ana Rodriguez | Accounting" data-src="/assets/team-pl.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Ana Rodriguez</h4>
@@ -119,10 +80,7 @@ permalink: /about
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Montserrat Estrada | Office Manager/Recruiter"
-							data-src="/assets/montserrat-estrada.jpg"
-							class="lazyload" />
+						<img alt="Montserrat Estrada | Office Manager/Recruiter" data-src="/assets/montserrat-estrada.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Montserrat Estrada</h4>
@@ -133,10 +91,7 @@ permalink: /about
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Radames Pina | Midwest Area Recruiter"
-							data-src="/assets/radames-pina.jpg"
-							class="lazyload" />
+						<img alt="Radames Pina | Midwest Area Recruiter" data-src="/assets/radames-pina.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Radames Pina</h4>
@@ -147,10 +102,7 @@ permalink: /about
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Jaclyn Van Frank | Corporate Account Receivables"
-							data-src="/assets/jaclyn-van-frank.jpg"
-							class="lazyload" />
+						<img alt="Jaclyn Van Frank | Corporate Account Receivables" data-src="/assets/jaclyn-van-frank.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Jaclyn Van Frank</h4>
@@ -161,10 +113,7 @@ permalink: /about
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Zulema Maldonado | Nashville Manager/Recruiter"
-							data-src="/assets/team-pl.jpg"
-							class="lazyload" />
+						<img alt="Zulema Maldonado | Nashville Manager/Recruiter" data-src="/assets/team-pl.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Zulema Maldonado</h4>
@@ -175,10 +124,7 @@ permalink: /about
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Deborah Scott | North East Area Coordinator"
-							data-src="/assets/deborah-scott.jpg"
-							class="lazyload" />
+						<img alt="Deborah Scott | North East Area Coordinator" data-src="/assets/deborah-scott.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Deborah Scott</h4>
@@ -189,10 +135,7 @@ permalink: /about
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Brock Mullens | HR/Compliance"
-							data-src="/assets/team-pl.jpg"
-							class="lazyload" />
+						<img alt="Brock Mullens | HR/Compliance" data-src="/assets/team-pl.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Brock Mullens</h4>
@@ -203,10 +146,7 @@ permalink: /about
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Eunice Alba | Recruiter"
-							data-src="/assets/team-pl.jpg"
-							class="lazyload" />
+						<img alt="Eunice Alba | Recruiter" data-src="/assets/team-pl.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Eunice Alba</h4>
@@ -217,10 +157,7 @@ permalink: /about
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img
-							alt="Maria Mejia | Nashville Office Manager/Recruiter"
-							data-src="/assets/team-pl.jpg"
-							class="lazyload" />
+						<img alt="Maria Mejia | Nashville Office Manager/Recruiter" data-src="/assets/team-pl.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Maria Mejia</h4>
@@ -228,13 +165,32 @@ permalink: /about
 					</div>
 				</div>
 			</div>
+
 		</div>
 	</div>
 	<div class="container">
 		<div class="mt-4">
-			{% responsive_image path: assets/hotelhelp-team.jpg %}
+			
+
+
+
+
+<img data-sizes="auto" src="/assets/set/100/hotelhelp-team.jpg" data-srcset="
+/assets/set/480/hotelhelp-team.jpg 500w,
+/assets/set/800/hotelhelp-team.jpg 768w,
+/assets/set/1400/hotelhelp-team.jpg 1280w,
+/assets/hotelhelp-team.jpg" class="lazyload blur" />
 		</div>
 	</div>
 </div>
 
-{% include staffing-cta.html %}
+<section class="staffing-cta">
+	<div class="container thiner center">
+		<div class="border-offset">
+			<h2 class="mt-0">Looking for Outsourcing?</h2>
+			<p class="mb-2">Our services are designed to help you make the most effective hiring decisions for your organization.</p>
+			<a href="/contact" class="btn">Contact us</a>
+		</div>
+	</div>
+</section>
+:ET

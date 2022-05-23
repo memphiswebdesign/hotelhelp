@@ -1,4 +1,4 @@
-I"¼<div id="about" class="plus-tile-tx">
+I" <div id="about" class="plus-tile-tx">
 	<!-- <div class="container">
 		<img src="../assets/hotelhelp-team.jpg" />
 	</div> -->
@@ -52,6 +52,17 @@
 					<div class="card-meta sm">
 						<h4>Hal Smith</h4>
 						<p>VP of East Coast Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Mike Inkster | Chief Operating Officer" data-src="/assets/mike-inkster.jpg" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Mike Inkster</h4>
+						<p>Chief Operating Officer</p>
 					</div>
 				</div>
 			</div>
@@ -157,15 +168,14 @@
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Joselin Jimenez | Nashville Office Manager/Recruiter" data-src="/assets/team-pl.jpg" class="lazyload" />
+						<img alt="Maria Mejia | Nashville Office Manager/Recruiter" data-src="/assets/team-pl.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Joselin Jimenez</h4>
+						<h4>Maria Mejia</h4>
 						<p>Nashville Office Manager/Recruiter</p>
 					</div>
 				</div>
 			</div>
-
 		</div>
 	</div>
 	<div class="container">

@@ -429,6 +429,13 @@ h4 {font-size: 21px;}
 h5 {font-size: 19px;}
 h6 {font-size: 17px;}
 
+#content {}
+#content pre,
+#content h2,
+#content h3,
+#content h4 {margin: 0 0 .5em 0;}
+#content a {text-decoration: none;}
+
 p {
 	color: #343E48;
 	line-height: 1.5;
@@ -887,7 +894,7 @@ button.ghost:hover,
 	font-size: 20px;
 	margin: 0;
 	padding: 0;
-	margin-bottom: 4px;
+	margin-bottom: 4px!important;
 }
 .card-meta h5 {
 	margin: 0;
@@ -1039,15 +1046,8 @@ button.ghost:hover,
 .team-member a {
 	display: inline-block;
 	word-break: break-word;
-} 
+}
 
-
-#content {}
-#content pre,
-#content h2,
-#content h3,
-#content h4 {margin: 0 0 .6em 0;}
-#content a {text-decoration: none;}
 
 @media (max-width: 960px) {
 	.form-col {order: -1;}
