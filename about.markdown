@@ -65,7 +65,7 @@ permalink: /about
 					<div class="card-image">
 						<img
 							alt="Hal Smith | VP of East Coast Operations"
-							data-src="/assets/hal-smith.png"
+							data-src="/assets/team-pl.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
