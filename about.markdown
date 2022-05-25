@@ -15,8 +15,8 @@ permalink: /about
 		<p class="mb-2">The Hotel Industry has over the years gone through many changes. One area that never changes is the one on one relationship that our front line employees have with our Guests. It is important that this relationship be the TOP priority when hiring our employees. Not only do we have a responsibility to our parent companies to offer the best accommodations and services we also have the responsibility of staying within our budget and still offer the best Guest Satisfaction available.</p>
 		<a href="/contact" class="btn">Join the team</a>
 	</div>
-	<div class="container">
-		<hr class="mt-3 mb-3">
+	<div class="container mt-3 mb-3">
+		<!-- <hr class="mt-3 mb-3"> -->
 		<div class="flex fx-wrap cards center pt-0">
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">

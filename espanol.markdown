@@ -37,7 +37,7 @@ permalink: /espanol
 								{% responsive_image path: assets/service-housekeeping.jpg %}
 							</div> 
 							<div class="card-meta">
-								<h5>Limpieza interna</h5>
+								<h5>Limpieza</h5>
 							</div>
 						</div>
 					</div>
@@ -63,17 +63,17 @@ permalink: /espanol
 							</div>
 						</div>
 					</div>
-					<!-- <div class="fx-item-2">
+					<div class="fx-item-2">
 						<div class="card-item sm">
-							<a class="card-link" href="/services/shuttle" title="Shuttle service"></a>
+							<a class="card-link" href="/services/bartender" title="Shuttle service"></a>
 							<div class="card-image">
-								{% responsive_image path: assets/service-shuttle.jpg %}
+								{% responsive_image path: assets/service-bartender.jpg %}
 							</div>
 							<div class="card-meta">
-								<h5>Lanzadera</h5>
+								<h5>Camarera</h5>
 							</div>
 						</div>
-					</div> -->
+					</div>
 					<div class="fx-item-2">
 						<div class="card-item sm">
 							<a class="card-link" href="/services/maintenance" title="maintenance"></a>
@@ -92,7 +92,7 @@ permalink: /espanol
 								{% responsive_image path: assets/service-banquet.jpg %}
 							</div>
 							<div class="card-meta">
-								<h5>Banquete</h5>
+								<h5>Alimentos Prep</h5>
 							</div>
 						</div>
 					</div>
@@ -103,7 +103,7 @@ permalink: /espanol
 								{% responsive_image path: assets/service-breakfast.jpg %}
 							</div>
 							<div class="card-meta">
-								<h5>Desayuno en el vestíbulo</h5>
+								<h5>Vestíbulo Desayuno</h5>
 							</div>
 						</div>
 					</div>

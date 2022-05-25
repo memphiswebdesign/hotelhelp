@@ -15,12 +15,12 @@ permalink: /services
 		<div class="flex fx-apart fx-wrap pt-0">
 			<div class="service-info fx-item-2 fx-item-sm-1">
 				<h2>Housekeeping</h2>
-				<p class="pb-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-				</p>
-				<a href="/services/housekeeping" class="btn">Learn more</a>
+				<p class="pb-1">Service description coming soon...</p>
+				<!-- <a href="/services/housekeeping" class="btn">Learn more</a> -->
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<a href="/services/housekeeping">
+				<!-- <a href="/services/housekeeping"> -->
+				<a href="#">
 					<div class="border-offset padding-none">
 						{% responsive_image path: assets/service-housekeeping.jpg %}
 					</div>
@@ -32,12 +32,12 @@ permalink: /services
 		<div class="flex fx-apart fx-wrap pt-0">
 			<div class="service-info fx-item-2 fx-item-sm-1">
 				<h2>Front Desk</h2>
-				<p class="pb-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-				</p>
-				<a href="/services/front-desk" class="btn">Learn more</a>
+				<p class="pb-1">Service description coming soon...</p>
+				<!-- <a href="/services/front-desk" class="btn">Learn more</a> -->
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<a href="/services/front-desk">
+				<!-- <a href="/services/front-desk"> -->
+				<a href="#">
 					<div class="border-offset padding-none">
 						{% responsive_image path: assets/service-lobby.jpg %}
 					</div>
@@ -49,12 +49,12 @@ permalink: /services
 		<div class="flex fx-apart fx-wrap pt-0">
 			<div class="service-info fx-item-2 fx-item-sm-1">
 				<h2>Maintenance</h2>
-				<p class="pb-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-				</p>
-				<a href="/services/maintenance" class="btn">Learn more</a>
+				<p class="pb-1">Service description coming soon...</p>
+				<!-- <a href="/services/maintenance" class="btn">Learn more</a> -->
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<a href="/services/maintenance">
+				<!-- <a href="/services/maintenance"> -->
+				<a href="#">
 					<div class="border-offset padding-none">
 						{% responsive_image path: assets/service-maintenance.jpg %}
 					</div>
@@ -66,12 +66,12 @@ permalink: /services
 		<div class="flex fx-apart fx-wrap pt-0">
 			<div class="service-info fx-item-2 fx-item-sm-1">
 				<h2>Lobby Breakfast</h2>
-				<p class="pb-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-				</p>
-				<a href="/services/lobby-breakfast" class="btn">Learn more</a>
+				<p class="pb-1">Service description coming soon...</p>
+				<!-- <a href="/services/lobby-breakfast" class="btn">Learn more</a> -->
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<a href="/services/lobby-breakfast">
+				<!-- <a href="/services/lobby-breakfast"> -->
+				<a href="#">					
 					<div class="border-offset padding-none">
 						{% responsive_image path: assets/service-breakfast.jpg %}
 					</div>
@@ -82,13 +82,13 @@ permalink: /services
 	<div class="service-item container thin">
 		<div class="flex fx-apart fx-wrap pt-0">
 			<div class="service-info fx-item-2 fx-item-sm-1">
-				<h2>Laundry</h2>
-				<p class="pb-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-				</p>
-				<a href="/services/laundry" class="btn">Learn more</a>
+				<h2>Overnight Housekeeping</h2>
+				<p class="pb-1">Service description coming soon...</p>
+				<!-- <a href="/services/laundry" class="btn">Learn more</a> -->
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<a href="/services/laundry">
+				<!-- <a href="/services/laundry"> -->
+				<a href="#">
 					<div class="border-offset padding-none">
 						{% responsive_image path: assets/service-laundry.jpg %}
 					</div>
@@ -99,15 +99,15 @@ permalink: /services
 	<div class="service-item container thin">
 		<div class="flex fx-apart fx-wrap pt-0">
 			<div class="service-info fx-item-2 fx-item-sm-1">
-				<h2>Shuttle</h2>
-				<p class="pb-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-				</p>
-				<a href="/services/shuttle" class="btn">Learn more</a>
+				<h2>Bartender</h2>
+				<p class="pb-1">Service description coming soon...</p>
+				<!-- <a href="/services/shuttle" class="btn">Learn more</a> -->
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<a href="/services/shuttle">
+				<!-- <a href="/services/shuttle"> -->
+				<a href="#">
 					<div class="border-offset padding-none">
-						{% responsive_image path: assets/service-shuttle.jpg %}
+						{% responsive_image path: assets/service-bartender.jpg %}
 					</div>
 				</a>
 			</div>
@@ -117,12 +117,12 @@ permalink: /services
 		<div class="flex fx-apart fx-wrap pt-0">
 			<div class="service-info fx-item-2 fx-item-sm-1">
 				<h2>Banquet</h2>
-				<p class="pb-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-				</p>
-				<a href="/services/banquet" class="btn">Learn more</a>
+				<p class="pb-1">Service description coming soon...</p>
+				<!-- <a href="/services/banquet" class="btn">Learn more</a> -->
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<a href="/services/banquet">
+				<!-- <a href="/services/banquet"> -->
+				<a href="#">
 					<div class="border-offset padding-none">
 						{% responsive_image path: assets/service-banquet.jpg %}
 					</div>
@@ -134,12 +134,12 @@ permalink: /services
 		<div class="flex fx-apart fx-wrap pt-0">
 			<div class="service-info fx-item-2 fx-item-sm-1">
 				<h2>Grounds</h2>
-				<p class="pb-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-				</p>
-				<a href="/services/grounds" class="btn">Learn more</a>
+				<p class="pb-1">Service description coming soon...</p>
+				<!-- <a href="/services/grounds" class="btn">Learn more</a> -->
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<a href="/services/grounds">
+				<!-- <a href="/services/grounds"> -->
+				<a href="#">
 					<div class="border-offset padding-none">
 						{% responsive_image path: assets/service-landscaper.jpg %}
 					</div>
@@ -149,4 +149,4 @@ permalink: /services
 	</div>
 </div>
 
-{% include featured-cases.html %}
+<!-- {% include featured-cases.html %} -->

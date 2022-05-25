@@ -1,54 +1,126 @@
 ---
-layout: landing
-title: Victory Auto Glass
+layout: default
+title: Trusted & Dependent
+subtitle: Hotelhelp partners with some of the finest hotels in the industry
 permalink: /
 ---
 
-<section id="hero-landing">
-	<div class="container pt-4">
-		<div id="logo"><img src="../assets/hotelhelp-logo-w.svg" /></div>
-		<pre>Trusted & Dependent</pre>
-		<h1 class="white">Hotelhelp partners with some of the finest hotels in the industry</h1>
-		<div class="stars">{% include_relative assets/5stars.html %}</div>
-		<h2 class="white">We provide solutions in several types of employment relationships</h2>
-		<div id="cta">
-			<a class="btn white" href="tel:9016245000">Call: 901-624-5000</a>
-		</div>
-		<div class="props mb-3 center" style="max-width:600px; margin-left:auto; margin-right:auto;">
-			<span>
-				<img src="../assets/check-gold.svg" />
-				<p class="white">Lower Your Costs</p>
-			</span>
-			<span>
-				<img src="../assets/check-gold.svg" />
-				<p class="white">Higher Retention</p>
-			</span>
-			<span>
-				<img src="../assets/check-gold.svg" />
-				<p class="white">Reduce Turnover</p>
-			</span>
-		</div>
-		<div class="hero-poster">
-			<img src="../assets/hotelhelp-team.jpg" />
+<div class="home-intro plus-tile-tx">
+	<div class="container thin"> 
+		<div class="flex fx-apart fx-wrap">
+			<div class="intro">
+				<pre>Trusted & Dependent</pre>
+				<h1>We provide solutions in several types of employment relationships</h1>
+				<p>Hotelhelp provides our clients with the most comprehensive recruitment tools, pre-employment screenings and assessments available. This ensures that all potential issues and concerns are uncovered before a final hiring decision is made. Our services are designed to help you make the most effective hiring decisions for your organization.</p>
+				<h3>We’ve got you covered!</h3>
+				<ul class="list-dash">
+					<li>Lower Your Costs</li>
+					<li>Higher Retention</li>
+					<li>Staff with a Hospitality Heart</li>
+					<li>Quality Service</li>
+					<li>Increase Your Guest Service Scores</li>
+					<li>Reduce Turnover</li>
+				</ul>
+				<div class="btn-group">
+					<a href="/about" class="text-link">About us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="/services" class="text-link">Services</a>
+				</div>
+			</div>
+			<!-- Services Grid -->
+			<div class="services-grid">
+				<div class="flex fx-apart fx-wrap cards center">
+					<div class="fx-item-2">
+						<div class="card-item sm">
+							<a class="card-link" href="/services/housekeeping" title="Housekeeping"></a>
+							<div class="card-image">
+								{% responsive_image path: assets/service-housekeeping.jpg %}
+							</div> 
+							<div class="card-meta">
+								<h5>Housekeeping</h5>
+							</div>
+						</div>
+					</div>
+					<div class="fx-item-2">
+						<div class="card-item sm">
+							<a class="card-link" href="/services/laundry" title="Laundry"></a>
+							<div class="card-image">
+								{% responsive_image path: assets/service-laundry.jpg %}
+							</div>
+							<div class="card-meta">
+								<h5>Overnight Housekeeping</h5>
+							</div>
+						</div>
+					</div>
+					<div class="fx-item-2">
+						<div class="card-item sm">
+							<a class="card-link" href="/services/front-desk" title="Front Desk"></a>
+							<div class="card-image">
+								{% responsive_image path: assets/service-lobby.jpg %}
+							</div>
+							<div class="card-meta">
+								<h5>Front Desk</h5>
+							</div>
+						</div>
+					</div>
+					<div class="fx-item-2">
+						<div class="card-item sm">
+							<a class="card-link" href="/services/bartender" title="Bartender service"></a>
+							<div class="card-image">
+								{% responsive_image path: assets/service-bartender.jpg %}
+							</div>
+							<div class="card-meta">
+								<h5>Bartender</h5>
+							</div>
+						</div>
+					</div>
+					<div class="fx-item-2">
+						<div class="card-item sm">
+							<a class="card-link" href="/services/maintenance" title="maintenance"></a>
+							<div class="card-image">
+								{% responsive_image path: assets/service-maintenance.jpg %}
+							</div>
+							<div class="card-meta"> 
+								<h5>Maintenance</h5>
+							</div>
+						</div>
+					</div>
+					<div class="fx-item-2">
+						<div class="card-item sm">
+							<a class="card-link" href="/services/banquet" title="banquet service"></a>
+							<div class="card-image">
+								{% responsive_image path: assets/service-banquet.jpg %}
+							</div>
+							<div class="card-meta">
+								<h5>Banquet</h5>
+							</div>
+						</div>
+					</div>
+					<div class="fx-item-2">
+						<div class="card-item sm">
+							<a class="card-link" href="/services/lobby-breakfast" title="Lobby Breakfast"></a>
+							<div class="card-image">
+								{% responsive_image path: assets/service-breakfast.jpg %}
+							</div>
+							<div class="card-meta">
+								<h5>Lobby Breakfast</h5>
+							</div>
+						</div>
+					</div>
+					<div class="fx-item-2">
+						<div class="card-item sm">
+							<a class="card-link" href="/services/grounds" title="Grounds Landscaper"></a>
+							<div class="card-image">
+								{% responsive_image path: assets/service-landscaper.jpg %}
+							</div>
+							<div class="card-meta">
+								<h5>Grounds</h5>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
-</section>
-<section id="hero-footer">
-	<div class="container center">
-		<div id="cta">
-			<a class="btn" href="https://www.facebook.com/hotelhelp.staffing.services" target="_blank">Like us on Facebook</a>
-		</div>
-		<p>
-			Hotelhelp provides our clients with the most comprehensive recruitment tools, pre-employment screenings and assessments available. This ensures that all potential issues and concerns are uncovered before a final hiring decision is made. Our services are designed to help you make the most effective hiring decisions for your organization.
-		</p>
-		<h3>We’ve got you covered!</h3>
-		<ul class="list-clear">
-			<li>Lower Your Costs</li>
-			<li>Higher Retention</li>
-			<li>Staff with a Hospitality Heart</li>
-			<li>Quality Service</li>
-			<li>Increase Your Guest Service Scores</li>
-			<li>Reduce Turnover</li>
-		</ul>
-	</div>
-</section>
+</div>
+
+<!-- {% include featured-cases.html %} -->

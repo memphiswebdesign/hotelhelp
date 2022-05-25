@@ -818,6 +818,8 @@ button.ghost:hover,
 .services-grid {
 	flex:  1;
 }
+/*Hide Service link - until we can get pages built out*/
+.services-grid a.card-link {display: none;}
 @media(min-width: 767px) {
 	.services-grid {padding-left: 70px;}
 }
