@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Victory Auto Glass
+title: Hotelhelp | Hospitality outsourcing
 permalink: /landing
 ---
 
