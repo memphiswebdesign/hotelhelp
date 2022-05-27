@@ -13,7 +13,7 @@ permalink: /contact
 	</div>
 	<div class="container">
 		<div class="flex fx-wrap cards pt-0">
-			<div class="fx-item-2 fx-item-md-1 px-1 px-sm-0">
+			<div class="fx-item-2 fx-item-md-1 px-1 px-sm-0 mb-3">
 				<pre>We're here to serve you</pre>
 				<h2>Reach out to a team member.</h2>
 				<hr>
@@ -27,7 +27,9 @@ permalink: /contact
 						{% endif %}
 					</div>
 					<p class="title">{{ item.title }}</p>
-					<p class="email"><a href="mailto:{{ item.email }}">{{ item.email }}</a></p>
+					{% if item.email %}
+						<p class="email"><a href="mailto:{{ item.email }}">{{ item.email }}</a></p>
+					{% endif %}
 					<p class="phone">O: <a href="tel:{{ item.phone }}">{{ item.phone }}</a></p>
 					{% if item.phone2 %}
 						<p class="phone">C: <a href="tel:{{ item.phone2 }}">{{ item.phone2 }}</a></p>
