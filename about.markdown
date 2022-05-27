@@ -23,7 +23,7 @@ permalink: /about
 					<div class="card-image">
 						<img
 							alt="Jeff Byars | President/Founder"
-							data-src="/assets/jeff-byars.jpg"
+							data-src="/assets/jeff-byars.png"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
@@ -65,7 +65,7 @@ permalink: /about
 					<div class="card-image">
 						<img
 							alt="Hal Smith | VP of East Coast Operations"
-							data-src="/assets/team-pl.jpg"
+							data-src="/assets/hal-smith.png"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
@@ -121,7 +121,7 @@ permalink: /about
 					<div class="card-image">
 						<img
 							alt="Montserrat Estrada | Office Manager/Recruiter"
-							data-src="/assets/montserrat-estrada.jpg"
+							data-src="/assets/montserrat-estrada.png"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
@@ -177,7 +177,7 @@ permalink: /about
 					<div class="card-image">
 						<img
 							alt="Deborah Scott | North East Area Coordinator"
-							data-src="/assets/deborah-scott.jpg"
+							data-src="/assets/deborah-scott.png"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
@@ -205,7 +205,7 @@ permalink: /about
 					<div class="card-image">
 						<img
 							alt="Eunice Alba | Recruiter"
-							data-src="/assets/team-pl.jpg"
+							data-src="/assets/eunice-alba.png"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
@@ -225,6 +225,20 @@ permalink: /about
 					<div class="card-meta sm">
 						<h4>Maria Mejia</h4>
 						<p>Nashville Office Manager/Recruiter</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img
+							alt="Gina | Nashville Recruiter"
+							data-src="/assets/gina-nashville.png"
+							class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Gina</h4>
+						<p>Nashville Office Recruiter</p>
 					</div>
 				</div>
 			</div>
