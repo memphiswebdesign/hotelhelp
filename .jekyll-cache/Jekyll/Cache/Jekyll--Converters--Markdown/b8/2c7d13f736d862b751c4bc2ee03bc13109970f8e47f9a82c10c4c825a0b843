@@ -1,4 +1,4 @@
-I"1<div id="about" class="plus-tile-tx">
+I"“<div id="about" class="plus-tile-tx">
 	<!-- <div class="container">
 		<img src="../assets/hotelhelp-team.jpg" />
 	</div> -->
@@ -14,7 +14,7 @@
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Jeff Byars | President/Founder" data-src="/assets/jeff-byars.jpg" class="lazyload" />
+						<img alt="Jeff Byars | President/Founder" data-src="/assets/jeff-byars.png" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Jeff Byars</h4>
@@ -58,7 +58,7 @@
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Mike Inkster | Chief Operating Officer" data-src="/assets/mike-inkster.jpg" class="lazyload" />
+						<img alt="Mike Inkster | Chief Operating Officer" data-src="/assets/mike-inkster.png" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Mike Inkster</h4>
@@ -91,7 +91,7 @@
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Montserrat Estrada | Office Manager/Recruiter" data-src="/assets/montserrat-estrada.jpg" class="lazyload" />
+						<img alt="Montserrat Estrada | Office Manager/Recruiter" data-src="/assets/montserrat-estrada.png" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Montserrat Estrada</h4>
@@ -135,7 +135,7 @@
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Deborah Scott | North East Area Coordinator" data-src="/assets/deborah-scott.jpg" class="lazyload" />
+						<img alt="Deborah Scott | North East Area Coordinator" data-src="/assets/deborah-scott.png" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Deborah Scott</h4>
@@ -157,7 +157,7 @@
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Eunice Alba | Recruiter" data-src="/assets/team-pl.jpg" class="lazyload" />
+						<img alt="Eunice Alba | Recruiter" data-src="/assets/eunice-alba.png" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Eunice Alba</h4>
@@ -173,6 +173,17 @@
 					<div class="card-meta sm">
 						<h4>Maria Mejia</h4>
 						<p>Nashville Office Manager/Recruiter</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img alt="Gina | Nashville Recruiter" data-src="/assets/gina-nashville.png" class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Gina</h4>
+						<p>Nashville Office Recruiter</p>
 					</div>
 				</div>
 			</div>

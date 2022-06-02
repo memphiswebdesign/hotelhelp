@@ -1,11 +1,11 @@
-I"d*<div id="contact" class="plus-tile-tx">
+I"�*<div id="contact" class="plus-tile-tx">
 	<div class="container thiner py-4">
 		<h1 class="mt-0">Providing 5 star hospitality for over 25 years</h1>
 		<p>Thank you for choosing Hotelhelp! Speak to us and you’ll find that we are unlike most hospitality job firms you’ve worked with. If you have any questions, comments, or suggestions, reach out and we will contact you promptly.</p>
 	</div>
 	<div class="container">
 		<div class="flex fx-wrap cards pt-0">
-			<div class="fx-item-2 fx-item-md-1 px-1 px-sm-0">
+			<div class="fx-item-2 fx-item-md-1 px-1 px-sm-0 mb-3">
 				<pre>We're here to serve you</pre>
 				<h2>Reach out to a team member.</h2>
 				<hr />
@@ -86,9 +86,11 @@
 					</div>
 					<p class="title">Chief Operating Officer</p>
 					
-						<p class="email"><a href="mailto:mikeinkster@hotelhelpservices">mikeinkster@hotelhelpservices</a></p>
+						<p class="email"><a href="mailto:mikeinkster@hotelhelpservices.com">mikeinkster@hotelhelpservices.com</a></p>
 					
 					<p class="phone">O: <a href="tel:901-624-5000">901-624-5000</a></p>
+					
+						<p class="phone">C: <a href="tel:901-299-6387">901-299-6387</a></p>
 					
 					
 				</div>

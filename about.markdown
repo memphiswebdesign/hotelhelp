@@ -79,7 +79,7 @@ permalink: /about
 					<div class="card-image">
 						<img
 							alt="Mike Inkster | Chief Operating Officer"
-							data-src="/assets/mike-inkster.jpg"
+							data-src="/assets/mike-inkster.png"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
