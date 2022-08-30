@@ -20,12 +20,12 @@
 
 title: Hotelhelp | Hospitality outsourcing
 email: raybarton@hotelhelpservices.com
-description: >- # this means to ignore newlines until "baseurl:"
+description:
   We offer exclusive help specific to the Hospitality Industry and offer
   employees with Hospitality Hearts that are dedicated to the Industry.
   We make sure to train all of our employees to guarantee outstanding service.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hotelhelpservicesinfo.com/"
 address: 894 North Germantown Parkway, Cordova,TN 38018
 phone: 901-624-5000
 facebook_url: https://www.facebook.com/hotelhelp.staffing.services

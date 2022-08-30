@@ -51,7 +51,7 @@ permalink: /about
 					<div class="card-image">
 						<img
 							alt="Ray Barton | VP of Sales & Marketing"
-							data-src="/assets/team-pl.jpg"
+							data-src="/assets/ray-barton-hotelhelp.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
@@ -130,7 +130,7 @@ permalink: /about
 					</div>
 				</div>
 			</div>
-			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+			<!-- <div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
 						<img
@@ -143,7 +143,7 @@ permalink: /about
 						<p>Midwest Area Recruiter</p>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
@@ -172,7 +172,7 @@ permalink: /about
 					</div>
 				</div>
 			</div>
-			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+			<!-- <div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
 						<img
@@ -185,7 +185,7 @@ permalink: /about
 						<p>North East Area Coordinator</p>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
@@ -219,7 +219,7 @@ permalink: /about
 					<div class="card-image">
 						<img
 							alt="Maria Mejia | Nashville Office Manager/Recruiter"
-							data-src="/assets/team-pl.jpg"
+							data-src="/assets/gina-nashville.png"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
@@ -232,13 +232,13 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Gina | Nashville Recruiter"
-							data-src="/assets/gina-nashville.png"
+							alt="Roberto Acevedo | Jacksonville Recruiter"
+							data-src="/assets/team-pl.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Gina</h4>
-						<p>Nashville Office Recruiter</p>
+						<h4>Roberto Acevedo</h4>
+						<p>Jacksonville Recruiter</p>
 					</div>
 				</div>
 			</div>

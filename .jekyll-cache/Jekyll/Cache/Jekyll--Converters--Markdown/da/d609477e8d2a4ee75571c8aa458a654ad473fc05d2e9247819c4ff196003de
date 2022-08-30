@@ -1,4 +1,4 @@
-I"“<div id="about" class="plus-tile-tx">
+I"ñ<div id="about" class="plus-tile-tx">
 	<!-- <div class="container">
 		<img src="../assets/hotelhelp-team.jpg" />
 	</div> -->
@@ -36,7 +36,7 @@
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Ray Barton | VP of Sales &amp; Marketing" data-src="/assets/team-pl.jpg" class="lazyload" />
+						<img alt="Ray Barton | VP of Sales &amp; Marketing" data-src="/assets/ray-barton-hotelhelp.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Ray Barton</h4>
@@ -58,7 +58,7 @@
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Mike Inkster | Chief Operating Officer" data-src="/assets/mike-inkster.jpg" class="lazyload" />
+						<img alt="Mike Inkster | Chief Operating Officer" data-src="/assets/mike-inkster.png" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Mike Inkster</h4>
@@ -99,17 +99,20 @@
 					</div>
 				</div>
 			</div>
-			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+			<!-- <div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Radames Pina | Midwest Area Recruiter" data-src="/assets/radames-pina.jpg" class="lazyload" />
+						<img
+							alt="Radames Pina | Midwest Area Recruiter"
+							data-src="/assets/radames-pina.jpg"
+							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Radames Pina</h4>
 						<p>Midwest Area Recruiter</p>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
@@ -132,17 +135,20 @@
 					</div>
 				</div>
 			</div>
-			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+			<!-- <div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Deborah Scott | North East Area Coordinator" data-src="/assets/deborah-scott.png" class="lazyload" />
+						<img
+							alt="Deborah Scott | North East Area Coordinator"
+							data-src="/assets/deborah-scott.png"
+							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Deborah Scott</h4>
 						<p>North East Area Coordinator</p>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
@@ -168,7 +174,7 @@
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Maria Mejia | Nashville Office Manager/Recruiter" data-src="/assets/team-pl.jpg" class="lazyload" />
+						<img alt="Maria Mejia | Nashville Office Manager/Recruiter" data-src="/assets/gina-nashville.png" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Maria Mejia</h4>
@@ -179,11 +185,11 @@
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
-						<img alt="Gina | Nashville Recruiter" data-src="/assets/gina-nashville.png" class="lazyload" />
+						<img alt="Roberto Acevedo | Jacksonville Recruiter" data-src="/assets/team-pl.jpg" class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Gina</h4>
-						<p>Nashville Office Recruiter</p>
+						<h4>Roberto Acevedo</h4>
+						<p>Jacksonville Recruiter</p>
 					</div>
 				</div>
 			</div>
