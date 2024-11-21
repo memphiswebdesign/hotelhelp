@@ -21,7 +21,8 @@ permalink: /
 					<li>Reduce Turnover</li>
 				</ul>
 				<div class="btn-group">
-					<a href="/about" class="text-link">About us</a>
+					<!-- <a href="/about" class="text-link">About us</a> -->
+					<a href="/about" class="btn">About Us</a>
 				</div>
 				<h3 class="mt-1">Feature services:</h3>
 				<ul class="list-dash">
@@ -34,7 +35,8 @@ permalink: /
 					<li>Grounds Landscaper</li>
 				</ul>
 				<div class="btn-group">
-					<a href="/services" class="text-link">Services</a>
+					<!-- <a href="/services" class="text-link">Services</a> -->
+					<a href="/services" class="btn">Our Services</a>
 				</div>
 			</div>
 			<div class="intro-perks">

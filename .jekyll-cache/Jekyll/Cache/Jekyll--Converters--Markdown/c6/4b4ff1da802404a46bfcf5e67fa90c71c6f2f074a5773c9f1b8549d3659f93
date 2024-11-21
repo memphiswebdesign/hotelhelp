@@ -1,4 +1,4 @@
-I"´1<div class="home-intro plus-tile-tx">
+I"ó1<div class="home-intro plus-tile-tx">
 	<div class="container"> 
 		<div class="flex fx-apart fx-wrap">
 			<div class="intro">
@@ -27,7 +27,8 @@
 					<li>Grounds Landscaper</li>
 				</ul>
 				<div class="btn-group">
-					<a href="/services" class="text-link">Services</a>
+					<!-- <a href="/services" class="text-link">Services</a> -->
+					<a href="/services" class="btn">Our Services</a>
 				</div>
 			</div>
 			<div class="intro-perks">
@@ -292,7 +293,7 @@ class="lazyload blur">
 
 @media (max-width: 766px) {
 	.intro-perks {
-		margin-top: 20px;
+		margin-top: 30px;
 		padding-left: 0;
 		width: 100%;
 	}
