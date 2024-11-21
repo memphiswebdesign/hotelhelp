@@ -821,7 +821,7 @@ button.ghost:hover,
 /*Hide Service link - until we can get pages built out*/
 .services-grid a.card-link {display: none;}
 @media(min-width: 767px) {
-	.services-grid {padding-left: 70px;}
+	.services-grid {padding-left: 50px;}
 }
 /*.services-grid .fx-item-2:nth-of-type(odd) {
 	transform: translateY(15px);

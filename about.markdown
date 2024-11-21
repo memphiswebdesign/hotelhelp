@@ -1,7 +1,7 @@
 ---
 layout: default 
-title: About Hotelhelp
-subtitle: Providing 5 star hospitality for over 25 years
+title: Welcome to HOTELHelp
+subtitle: Your Trusted Partner for Exceptional Hotel Staffing Solutions
 permalink: /about
 ---
 
@@ -11,7 +11,9 @@ permalink: /about
 	</div> -->
 	<div class="container thiner py-2">
 		<h2 class="mt-0">Providing 5 star hospitality for over 25 years</h2>
-		<p>At HOTELhelp, we understand first hand the hiring needs of hotels. How? Because, most of our hotel recruitment experts come from a hospitality background, including luxury, branded and boutique hotels. Because of this experience, we know exactly where to find the best candidates for your hotel. We offer a variety of recruiting options for hotels and can create custom solutions for your specific needs and budgetary constraints.</p>
+		<p>Since 2008, HOTELHelp has been a leading provider of high-quality staffing solutions exclusively for the hotel industry. With deep expertise in workforce management, we empower hotels to enhance their guest service and optimize their operations. By offering highly skilled and customer-focused associates, we help you reduce turnover, lower operational costs, and elevate the guest experience.</p>
+		<h5>Our mission is simple: to deliver the best talent, so you can focus on running your hotel with confidence.</h5>
+		<p>At HOTELHelp, we understand first hand the hiring needs of hotels. How? Because, most of our hotel recruitment experts come from a hospitality background, including luxury, branded and boutique hotels. Because of this experience, we know exactly where to find the best candidates for your hotel. We offer a variety of recruiting options for hotels and can create custom solutions for your specific needs and budgetary constraints.</p>
 		<p class="mb-2">The Hotel Industry has over the years gone through many changes. One area that never changes is the one on one relationship that our front line employees have with our Guests. It is important that this relationship be the TOP priority when hiring our employees. Not only do we have a responsibility to our parent companies to offer the best accommodations and services we also have the responsibility of staying within our budget and still offer the best Guest Satisfaction available.</p>
 		<a href="/contact" class="btn">Join the team</a>
 	</div>

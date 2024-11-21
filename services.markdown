@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Hotelhelp Services
-subtitle: Trained & job ready outsourcing for your organization
+subtitle: Comprehensive Hotel Staffing Solutions
 permalink: /services
 ---
 
 <div id="services" class="plus-tile-tx pb-3">
-	<div class="container thiner py-2 px-3 mb-2 px-sm-1 center">
-		<pre>Trusted & Dependent</pre>
-		<h1 class="mt-0">We provide solutions in several types of employment relationships</h1>
+	<div class="container thiner py-2 px-0 mb-2 px-sm-1 center">
+		<!-- <pre>Trusted & Dependent</pre> -->
+		<h1 class="mt-0">HOTELHelp provide solutions in several types of employment relationships</h1>
 		<p>Hotelhelp provides our clients with the most comprehensive recruitment tools, pre-employment screenings and assessments available. This ensures that all potential issues and concerns are uncovered before a final hiring decision is made. Our services are designed to help you make the most effective hiring decisions for your organization.</p>
 	</div>
 	<div class="service-item container thin">
