@@ -38,7 +38,7 @@ permalink: /about
 			</div>
 		</div>
 	</div>
-	<div class="container mt-3 mb-3">
+	<div class="team-grid container mt-3 mb-3">
 		<!-- <hr class="mt-3 mb-3"> -->
 		<div class="flex fx-wrap cards center pt-0">
 			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
@@ -60,26 +60,12 @@ permalink: /about
 					<div class="card-image">
 						<img
 							alt="Jason Harris | Chief Operating Officer"
-							data-src="/assets/jason-harris.jpg"
+							data-src="/assets/jason-harris-24.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
 						<h4>Jason Harris</h4>
 						<p>Chief Operating Officer</p>
-					</div>
-				</div>
-			</div>
-			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
-				<div class="card-item">
-					<div class="card-image">
-						<img
-							alt="Ray Barton | VP of Sales"
-							data-src="/assets/ray-barton-hotelhelp.jpg"
-							class="lazyload" />
-					</div>
-					<div class="card-meta sm">
-						<h4>Ray Barton</h4>
-						<p>VP of Sales</p>
 					</div>
 				</div>
 			</div>
@@ -93,7 +79,7 @@ permalink: /about
 					</div>
 					<div class="card-meta sm">
 						<h4>Jeff Sanders</h4>
-						<p>Title coming soon</p>
+						<p>-</p>
 					</div>
 				</div>
 			</div>
@@ -143,20 +129,6 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Tou B. Lee | Controller"
-							data-src="/assets/team-pl.jpg"
-							class="lazyload" />
-					</div>
-					<div class="card-meta sm">
-						<h4>Tou B. Lee</h4>
-						<p>Controller</p>
-					</div>
-				</div>
-			</div>
-			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
-				<div class="card-item">
-					<div class="card-image">
-						<img
 							alt="Ana Rodriguez | Accounting"
 							data-src="/assets/anna-rodriguez.jpg"
 							class="lazyload" />
@@ -190,8 +162,8 @@ permalink: /about
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
-						<h4>Parker Byarsg</h4>
-						<p>Title coming soon</p>
+						<h4>Parker Byars</h4>
+						<p>-</p>
 					</div>
 				</div>
 			</div>
@@ -219,7 +191,7 @@ permalink: /about
 					</div>
 					<div class="card-meta sm">
 						<h4>Jaclyn Van Frank</h4>
-						<p>Corporate Account Receivables</p>
+						<p>Payroll Manager</p>
 					</div>
 				</div>
 			</div>
@@ -247,7 +219,7 @@ permalink: /about
 					</div>
 					<div class="card-meta sm">
 						<h4>Bryan Cannon</h4>
-						<p>Title coming soon</p>
+						<p>Accounting Associate</p>
 					</div>
 				</div>
 			</div>
@@ -256,7 +228,7 @@ permalink: /about
 					<div class="card-image">
 						<img
 							alt="Zulema Maldonado | Nashville Manager/Recruiter"
-							data-src="/assets/team-pl.jpg"
+							data-src="/assets/zulema-maldonado.jpg"
 							class="lazyload" />
 					</div>
 					<div class="card-meta sm">
@@ -297,6 +269,20 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
+							alt="joselin jimenez"
+							data-src="/assets/joselin-jimenez.jpg"
+							class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Joselin Jimenez</h4>
+						<p>Recruiter</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img
 							alt="Mike Glass | VP East Coast Operations"
 							data-src="/assets/team-pl.jpg"
 							class="lazyload" />
@@ -311,6 +297,20 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
+							alt="Tou B. Lee | Controller"
+							data-src="/assets/team-pl.jpg"
+							class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Tou B. Lee</h4>
+						<p>Controller</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img
 							alt="Nancy Lee"
 							data-src="/assets/nancy-lee.jpg"
 							class="lazyload" />
@@ -318,6 +318,20 @@ permalink: /about
 					<div class="card-meta sm">
 						<h4>Nancy Lee</h4>
 						<p>Myrtle Beach Operations</p>
+					</div>
+				</div>
+			</div>
+			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+				<div class="card-item">
+					<div class="card-image">
+						<img
+							alt="Ray Barton | VP of Sales emeritus"
+							data-src="/assets/ray-barton-hotelhelp.jpg"
+							class="lazyload" />
+					</div>
+					<div class="card-meta sm">
+						<h4>Ray Barton</h4>
+						<p>VP of Sales, Emeritus</p>
 					</div>
 				</div>
 			</div>

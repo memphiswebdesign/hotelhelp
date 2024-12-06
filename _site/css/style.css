@@ -1112,6 +1112,9 @@ button.ghost:hover,
 }
 @media (max-width: 780px) {
 	.team-member {flex: 0 0 50%;}
+	.team-grid .card-item {margin: 0;}
+	.team-grid .cards .fx-item-4:nth-of-type(odd) {padding-right: 5px;}
+	.team-grid .cards .fx-item-4:nth-of-type(even) {padding-left: 5px;}
 }
 @media (max-width: 520px) {
 	.team-member {flex: 0 0 100%;}
