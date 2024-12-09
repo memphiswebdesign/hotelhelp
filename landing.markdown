@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Hotelhelp | Hospitality outsourcing
+title: HOTELelp | Hospitality outsourcing
 permalink: /landing
 ---
 
@@ -8,7 +8,7 @@ permalink: /landing
 	<div class="container pt-4">
 		<div id="logo"><img src="../assets/hotelhelp-logo-w.svg" /></div>
 		<pre>Trusted & Dependent</pre>
-		<h1 class="white">Hotelhelp partners with some of the finest hotels in the industry</h1>
+		<h1 class="white">HOTELhelp partners with some of the finest hotels in the industry</h1>
 		<div class="stars">{% include_relative assets/5stars.html %}</div>
 		<h2 class="white">We provide solutions in several types of employment relationships</h2>
 		<div id="cta">
@@ -39,7 +39,7 @@ permalink: /landing
 			<a class="btn" href="https://www.facebook.com/hotelhelp.staffing.services" target="_blank">Like us on Facebook</a>
 		</div>
 		<p>
-			Hotelhelp provides our clients with the most comprehensive recruitment tools, pre-employment screenings and assessments available. This ensures that all potential issues and concerns are uncovered before a final hiring decision is made. Our services are designed to help you make the most effective hiring decisions for your organization.
+			HOTELhelp provides our clients with the most comprehensive recruitment tools, pre-employment screenings and assessments available. This ensures that all potential issues and concerns are uncovered before a final hiring decision is made. Our services are designed to help you make the most effective hiring decisions for your organization.
 		</p>
 		<h3>We’ve got you covered!</h3>
 		<ul class="list-clear">

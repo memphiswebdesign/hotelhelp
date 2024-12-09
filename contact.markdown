@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Contact Hotelhelp
+title: Contact HOTELhelp
 subtitle: Exclusive outsourcing to the hospitality industry
 permalink: /contact
 ---
@@ -9,7 +9,7 @@ permalink: /contact
 <div id="contact" class="plus-tile-tx">
 	<div class="container center thiner pt-1 pb-4">
 		<h1 class="mt-0">Providing 5 star hospitality for over 25 years</h1>
-		<p>Thank you for choosing Hotelhelp! Speak to us and you’ll find that we are unlike most hospitality job firms you’ve worked with. If you have any questions, comments, or suggestions, reach out and we will contact you promptly.</p>
+		<p>Thank you for choosing HOTELhelp! Speak to us and you’ll find that we are unlike most hospitality job firms you’ve worked with. If you have any questions, comments, or suggestions, reach out and we will contact you promptly.</p>
 	</div>
 	<div class="container">
 		<div class="flex fx-wrap cards pt-0">
