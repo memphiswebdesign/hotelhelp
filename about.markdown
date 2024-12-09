@@ -38,7 +38,6 @@ permalink: /about
 					<li>Austin</li>
 					<li>San Antonio</li>
 				</ul>
-				<h4 class="mb-1">We currently partner with 83 hotels and employ over 530 associates &mdash; each committed to delivering top-tier hospitality service to every client.</h4>
 				<a href="/contact" class="btn">Contact us</a>
 			</div>
 		</div>

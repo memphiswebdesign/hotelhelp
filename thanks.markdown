@@ -14,10 +14,10 @@ permalink: /thanks
 		<hr>
 		<div class="general-contact">
 			<a href="https://www.google.com/maps/place/894+N+Germantown+Pkwy+%232,+Cordova,+TN+38018" target="_blank">894 North Germantown Parkway (Suite 2) Cordova, TN 38018</a>
-			<a href="mailto:raybarton@hotelhelpservices.com">raybarton@hotelhelpservices.com</a>
+			<a href="mailto:info@hotelhelpservices.com">info@hotelhelpservices.com</a>
 			<a href="tel:9016245000">Tel: 901-624-5000</a>
 		</div>
 	</div>
 </div>
 
-{% include featured-cases.html %}
+<!-- {% include featured-cases.html %} -->
