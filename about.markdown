@@ -311,7 +311,7 @@ permalink: /about
 					</div>
 				</div>
 			</div>
-			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
+			<!-- <div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
 				<div class="card-item">
 					<div class="card-image">
 						<img
@@ -324,7 +324,7 @@ permalink: /about
 						<p>VP of Sales, Emeritus</p>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 	<div class="container">
