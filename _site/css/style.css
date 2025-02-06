@@ -172,12 +172,12 @@ header {
 	transition: background .2s ease-out;
 }
 header.scroll {
-	background: rgba(22, 37, 53, .9);
+	background: rgba(22, 37, 53, .94);
     -webkit-backdrop-filter: saturate(110%) blur(10px);
     backdrop-filter: saturate(110%) blur(10px);
 }
 header.scroll:hover {
-	background: rgba(22, 37, 53, .95); 
+	background: rgba(22, 37, 53, 1); 
 }
 
 header #logo {padding-top: 10px;}
@@ -261,8 +261,8 @@ nav ul li a {
 	white-space: nowrap;
 }
 nav ul li a:hover {opacity: .75;}
-nav ul li.active a {opacity: 1!important;}
-nav ul li.active a:after {
+nav ul li.active > a {opacity: 1!important;}
+nav ul li.active > a:after {
 	content: '';
 	position: absolute;
 	display: inline-block;
@@ -274,6 +274,27 @@ nav ul li.active a:after {
 	background: #C59A2C;
 	animation: nav-marker .2s cubic-bezier(0, 0, 0.40, 1.4) forwards .05s;
 }
+
+nav ul.dropdown {
+	position: absolute;
+	top: 32px;
+	left: 0;
+	display: none;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: start;
+    background: #162535;
+    padding: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+nav ul.dropdown li a {
+	padding: 4px 8px;
+	display: inline-block;
+	width: 100%;
+}
+
+li.nav-item:hover > ul.dropdown {display: inline-flex;}
 
 /* Mobile Navigation */
 @media(max-width: 850px) {
@@ -520,7 +541,18 @@ pre {
 
 /* ------ Utility : Medium ------ */
 @media(max-width: 780px) {
+	/*	md PY + PX spacers */
+	.py-md-0 {padding-top: 0em!important; padding-bottom: 0em!important;}
+	.py-md-1 {padding-top: 1em!important; padding-bottom: 1em!important;}
+	.py-md-2 {padding-top: 2em!important; padding-bottom: 2em!important;}
+	.py-md-3 {padding-top: 3em!important; padding-bottom: 3em!important;}
+	.py-md-4 {padding-top: 4em!important; padding-bottom: 4em!important;}
 	.px-md-0 {padding-left: 0!important; padding-right: 0!important;}
+	.px-md-1 {padding-left: 1em!important; padding-right: 1em!important;}
+	.px-md-2 {padding-left: 2em!important; padding-right: 2em!important;}
+	.px-md-3 {padding-left: 3em!important; padding-right: 3em!important;}
+	.px-md-4 {padding-left: 4em!important; padding-right: 4em!important;}
+
 	/* md margin */
 	.mt-md-0 {margin-top: 0!important;}
 	.mt-md-1 {margin-top: 1em!important;}
@@ -566,9 +598,18 @@ pre {
 }
 /* ------ Utility : Small ------ */
 @media(max-width: 500px) {
+	/*	sm PY + PX spacers */
+	.py-sm-0 {padding-top: 0em!important; padding-bottom: 0em!important;}
+	.py-sm-1 {padding-top: 1em!important; padding-bottom: 1em!important;}
 	.py-sm-2 {padding-top: 2em!important; padding-bottom: 2em!important;}
+	.py-sm-3 {padding-top: 3em!important; padding-bottom: 3em!important;}
+	.py-sm-4 {padding-top: 4em!important; padding-bottom: 4em!important;}
+	.px-sm-0 {padding-left: 0!important; padding-right: 0!important;}
 	.px-sm-1 {padding-left: 1em!important; padding-right: 1em!important;}
-	.px-sm-0 {padding-left: 0em!important; padding-right: 0em!important;}
+	.px-sm-2 {padding-left: 2em!important; padding-right: 2em!important;}
+	.px-sm-3 {padding-left: 3em!important; padding-right: 3em!important;}
+	.px-sm-4 {padding-left: 4em!important; padding-right: 4em!important;}
+
 	/* sm margin */
 	.mt-sm-0 {margin-top: 0!important;}
 	.mt-sm-1 {margin-top: 1em!important;}
@@ -621,15 +662,16 @@ pre {
     padding-bottom: 100px;	
 }
 
-.article-heading {}
+.article-heading {
+	border-top: 1px solid #ddd;
+	padding-top: 40px;
+	margin-bottom: 10px;
+}
 .article-date {
 	margin-bottom: 40px!important;
 }
 
-.article-content {
-	border-top: 1px solid #ddd;
-	padding-top: 30px;
-}
+.article-content {}
 
 .back-to a {text-decoration: none;}
 .back-to {
@@ -803,7 +845,7 @@ button.ghost:hover,
 }
 
 /* Home Styles */
-.opening {margin-bottom: 6%;}
+.opening {margin-bottom: 40px;}
 .home-statment {
 	padding: 0 2%;
 }
@@ -1032,7 +1074,7 @@ button.ghost:hover,
 	.service-info p {margin-top: 0;}
 }
 @media(min-width: 779px) { 
-	.service-info {padding: 0 8%;}
+	.service-info {padding: 0 5%;}
 }
 
 /* Bottom Staffing Cta include */
@@ -1208,3 +1250,13 @@ form .btn {width: 100%;}
 	-webkit-filter: blur(0);
 	filter: blur(0);
 }
+#mission-plug {}
+#mission-plug .container {
+	background: #162535;
+	border: 1px solid #C59A2C;
+}
+
+
+
+
+

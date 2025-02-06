@@ -3,9 +3,21 @@
 
 - title: Services
   link: /services
-
-# - title: Case Studies
-#   link: /case-studies
+  submenu:
+  - title: Housekeeping
+    link: /services/hotel-help-housekeeping
+  - title: Maintenance Engineer
+    link: /services/hotel-help-maintenance
+  - title: Laundry Attendant
+    link: /services/hotel-help-laundry
+  - title: Breakfast / Lobby 
+    link: /services/hotel-help-lobby-breakfast
+  - title: Grounds Keeper
+    link: /services/hotel-help-grounds
+  - title: Banquet & Event Server
+    link: /services/hotel-help-banquet
+  - title: Bartender / Beverage Specialist
+    link: /services/hotel-help-bartender
 
 - title: español
   link: /espanol

@@ -2,7 +2,7 @@
 layout: article 
 title: Front Desk
 subtitle: Providing 5 star hospitality for over 25 years
-permalink: /services/front-desk
+permalink: /services/hotel-help-front-desk
 ---
 
 

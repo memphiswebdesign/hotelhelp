@@ -13,14 +13,13 @@ permalink: /services
 	</div>
 	<div class="service-item container thin">
 		<div class="flex fx-apart fx-wrap pt-0">
-			<div class="service-info fx-item-2 fx-item-sm-1">
-				<h2>Housekeeping</h2>
-				<p class="pb-1">Service description coming soon...</p>
-				<!-- <a href="/services/housekeeping" class="btn">Learn more</a> -->
+			<div class="service-info fx-item-2 fx-item-sm-1 pb-3">
+				<h2>Housekeeping / Guest Room Attendant</h2>
+				<p class="pb-1">Our Guest Room Attendants ensure that guest rooms and public areas meet the highest cleanliness standards. They are dedicated to creating an inviting, comfortable environment for guests.</p>
+				<a href="/services/hotel-help-housekeeping" class="btn">Learn more</a>
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<!-- <a href="/services/housekeeping"> -->
-				<a href="#">
+				 <a href="/services/hotel-help-housekeeping">
 					<div class="border-offset padding-none">
 						{% responsive_image path: assets/service-housekeeping.jpg %}
 					</div>
@@ -30,31 +29,13 @@ permalink: /services
 	</div>
 	<div class="service-item container thin">
 		<div class="flex fx-apart fx-wrap pt-0">
-			<div class="service-info fx-item-2 fx-item-sm-1">
-				<h2>Front Desk</h2>
-				<p class="pb-1">Service description coming soon...</p>
-				<!-- <a href="/services/front-desk" class="btn">Learn more</a> -->
+			<div class="service-info fx-item-2 fx-item-sm-1 pb-3">
+				<h2>Maintenance Engineer / Preventative Maintenance Specialist</h2>
+				<p class="pb-1">Our Maintenance Engineers ensure the operational integrity of all hotel systems, performing preventive maintenance and handling emergency repairs to ensure safety and guest satisfaction.</p>
+				<a href="/services/hotel-help-maintenance" class="btn">Learn more</a>
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<!-- <a href="/services/front-desk"> -->
-				<a href="#">
-					<div class="border-offset padding-none">
-						{% responsive_image path: assets/service-lobby.jpg %}
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="service-item container thin">
-		<div class="flex fx-apart fx-wrap pt-0">
-			<div class="service-info fx-item-2 fx-item-sm-1">
-				<h2>Maintenance</h2>
-				<p class="pb-1">Service description coming soon...</p>
-				<!-- <a href="/services/maintenance" class="btn">Learn more</a> -->
-			</div>
-			<div class="service-img fx-item-2 fx-item-sm-1">
-				<!-- <a href="/services/maintenance"> -->
-				<a href="#">
+				<a href="/services/hotel-help-maintenance">
 					<div class="border-offset padding-none">
 						{% responsive_image path: assets/service-maintenance.jpg %}
 					</div>
@@ -64,31 +45,13 @@ permalink: /services
 	</div>
 	<div class="service-item container thin">
 		<div class="flex fx-apart fx-wrap pt-0">
-			<div class="service-info fx-item-2 fx-item-sm-1">
-				<h2>Lobby Breakfast</h2>
-				<p class="pb-1">Service description coming soon...</p>
-				<!-- <a href="/services/lobby-breakfast" class="btn">Learn more</a> -->
+			<div class="service-info fx-item-2 fx-item-sm-1 pb-3">
+				<h2>Laundry Attendant / Laundry Services Specialist</h2>
+				<p class="pb-1">Our Laundry Services Specialists are responsible for ensuring all linens, towels, and garments are cleaned, pressed, and delivered in a timely manner to maintain hotel standards of cleanliness.</p>
+				<a href="/services/hotel-help-laundry" class="btn">Learn more</a>
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<!-- <a href="/services/lobby-breakfast"> -->
-				<a href="#">					
-					<div class="border-offset padding-none">
-						{% responsive_image path: assets/service-breakfast.jpg %}
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="service-item container thin">
-		<div class="flex fx-apart fx-wrap pt-0">
-			<div class="service-info fx-item-2 fx-item-sm-1">
-				<h2>Overnight Housekeeping</h2>
-				<p class="pb-1">Service description coming soon...</p>
-				<!-- <a href="/services/laundry" class="btn">Learn more</a> -->
-			</div>
-			<div class="service-img fx-item-2 fx-item-sm-1">
-				<!-- <a href="/services/laundry"> -->
-				<a href="#">
+				<a href="/services/hotel-help-laundry">
 					<div class="border-offset padding-none">
 						{% responsive_image path: assets/service-laundry.jpg %}
 					</div>
@@ -98,16 +61,15 @@ permalink: /services
 	</div>
 	<div class="service-item container thin">
 		<div class="flex fx-apart fx-wrap pt-0">
-			<div class="service-info fx-item-2 fx-item-sm-1">
-				<h2>Bartender</h2>
-				<p class="pb-1">Service description coming soon...</p>
-				<!-- <a href="/services/shuttle" class="btn">Learn more</a> -->
+			<div class="service-info fx-item-2 fx-item-sm-1 pb-3">
+				<h2>Breakfast / Lobby Attendant / Guest Experience Attendant</h2>
+				<p class="pb-1">Our Guest Experience Attendants provide exceptional service in breakfast areas and public spaces, ensuring that guests have a welcoming, comfortable experience.</p>
+				<a href="/services/hotel-help-lobby-breakfast" class="btn">Learn more</a>
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<!-- <a href="/services/shuttle"> -->
-				<a href="#">
+				<a href="/services/hotel-help-lobby-breakfast">
 					<div class="border-offset padding-none">
-						{% responsive_image path: assets/service-bartender.jpg %}
+						{% responsive_image path: assets/service-breakfast.jpg %}
 					</div>
 				</a>
 			</div>
@@ -115,14 +77,29 @@ permalink: /services
 	</div>
 	<div class="service-item container thin">
 		<div class="flex fx-apart fx-wrap pt-0">
-			<div class="service-info fx-item-2 fx-item-sm-1">
-				<h2>Banquet</h2>
-				<p class="pb-1">Service description coming soon...</p>
-				<!-- <a href="/services/banquet" class="btn">Learn more</a> -->
+			<div class="service-info fx-item-2 fx-item-sm-1 pb-3">
+				<h2>Grounds Keeper / Property Maintenance Technician</h2>
+				<p class="pb-1">Our Property Maintenance Technicians ensure that outdoor areas and grounds are well-maintained, creating a welcoming and safe environment for guests.</p>
+				<a href="/services/hotel-help-grounds" class="btn">Learn more</a>
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<!-- <a href="/services/banquet"> -->
-				<a href="#">
+				<a href="/services/hotel-help-grounds">
+					<div class="border-offset padding-none">
+						{% responsive_image path: assets/service-landscaper.jpg %}
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="service-item container thin">
+		<div class="flex fx-apart fx-wrap pt-0">
+			<div class="service-info fx-item-2 fx-item-sm-1 pb-3">
+				<h2>Banquet & Event Server / Event Service Professional</h2>
+				<p class="pb-1">Our Event Service Professionals provide excellent service at banquets, meetings, and other special events, ensuring guests have an outstanding experience during their time at the hotel.</p>
+				<a href="/services/hotel-help-banquet" class="btn">Learn more</a>
+			</div>
+			<div class="service-img fx-item-2 fx-item-sm-1">
+				<a href="/services/hotel-help-banquet">
 					<div class="border-offset padding-none">
 						{% responsive_image path: assets/service-banquet.jpg %}
 					</div>
@@ -132,21 +109,22 @@ permalink: /services
 	</div>
 	<div class="service-item container thin">
 		<div class="flex fx-apart fx-wrap pt-0">
-			<div class="service-info fx-item-2 fx-item-sm-1">
-				<h2>Grounds</h2>
-				<p class="pb-1">Service description coming soon...</p>
-				<!-- <a href="/services/grounds" class="btn">Learn more</a> -->
+			<div class="service-info fx-item-2 fx-item-sm-1 pb-3">
+				<h2>Bartender / Beverage Service Specialist</h2>
+				<p class="pb-1">Our Beverage Service Specialists serve guests with a wide range of drinks, ensuring that each cocktail or beverage is served with professionalism and flair.</p>
+				<a href="/services/hotel-help-bartender" class="btn">Learn more</a>
 			</div>
 			<div class="service-img fx-item-2 fx-item-sm-1">
-				<!-- <a href="/services/grounds"> -->
-				<a href="#">
+				<a href="/services/hotel-help-bartender">
 					<div class="border-offset padding-none">
-						{% responsive_image path: assets/service-landscaper.jpg %}
+						{% responsive_image path: assets/service-bartender.jpg %}
 					</div>
 				</a>
 			</div>
 		</div>
 	</div>
 </div>
+
+{% include mission-plug.html %}
 
 <!-- {% include featured-cases.html %} -->

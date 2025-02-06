@@ -1,14 +1,14 @@
 ---
 layout: article 
-title: Housekeeping / Guest Room Attendant
+title: Bartender / Beverage Service Specialist
 subtitle: Providing 5 star hospitality for over 25 years
-permalink: /services/hotel-help-housekeeping
+permalink: /services/hotel-help-bartender
 ---
 
 
 <div id="{{ page.title }}" class="mb-4">
 	<div class="container py-0 px-0">
-		<p class="pb-0 pb-1">Our Guest Room Attendants ensure that guest rooms and public areas meet the highest cleanliness standards. They are dedicated to creating an inviting, comfortable environment for guests.</p>
+		<p class="pb-0 pb-1">Our Beverage Service Specialists serve guests with a wide range of drinks, ensuring that each cocktail or beverage is served with professionalism and flair.</p>
 		<div class="btn-group mb-2">
 			<a href="/find-a-job" class="btn">Browse Job Board</a> &nbsp; 
 			<a href="/contact" class="btn">Contact us</a>
@@ -32,11 +32,11 @@ permalink: /services/hotel-help-housekeeping
 					<li>Excellent communication skills and ability to provide high-level customer service.</li>
 					<li>Ability to manage a high volume of drink orders while maintaining accuracy.</li>
 					<li>Knowledge of responsible alcohol service and local regulations.</li>
-				</ul>				
+				</ul>
 			</div>
 		</div>
 		<div class="border-offset padding-none">
-			{% responsive_image path: assets/service-housekeeping.jpg %}
+			{% responsive_image path: assets/service-bartender.jpg %}
 		</div>
 	</div>
 </div>

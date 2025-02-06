@@ -77,26 +77,67 @@ lazySizesConfig.loadMode = 1;</script>
 		<div class="flex fx-apart fx-align-center">
 			<div id="logo">
 				<a href="/">
-					<img src="../assets/hotelhelp-logo-w.svg" />
+					<img src="../assets/hotelhelp-logo-w.svg" alt="Hotel Help Logo" />
 				</a>
 			</div>
 			<nav class="mobile-hide">
-				<ul>
+				<ul class="nav-menu">
 					 
-					<li 
-					><a href="/about">About</a></li>
+						<li class="nav-item  ">
+							<a class="nav-link" href="/about">About</a>
+
+							
+						</li>
 					 
-					<li 
-					><a href="/services">Services</a></li>
+						<li class="nav-item  hasSub ">
+							<a class="nav-link" href="/services">Services</a>
+
+							
+								<ul class="dropdown">
+									
+										<li class="dropdown-item">
+											<a href="/services/hotel-help-housekeeping">Housekeeping</a>
+										</li>
+									
+										<li class="dropdown-item">
+											<a href="/services/hotel-help-maintenance">Maintenance Engineer</a>
+										</li>
+									
+										<li class="dropdown-item">
+											<a href="/services/hotel-help-laundry">Laundry Attendant</a>
+										</li>
+									
+										<li class="dropdown-item">
+											<a href="/services/hotel-help-lobby-breakfast">Breakfast / Lobby</a>
+										</li>
+									
+										<li class="dropdown-item">
+											<a href="/services/hotel-help-grounds">Grounds Keeper</a>
+										</li>
+									
+										<li class="dropdown-item">
+											<a href="/services/hotel-help-banquet">Banquet & Event Server</a>
+										</li>
+									
+										<li class="dropdown-item">
+											<a href="/services/hotel-help-bartender">Bartender / Beverage Specialist</a>
+										</li>
+									
+								</ul>
+							
+						</li>
 					 
-					<li  class="active"
-					><a href="/espanol">español</a></li>
+						<li class="nav-item  active">
+							<a class="nav-link" href="/espanol">español</a>
+
+							
+						</li>
 					
 				</ul>
 			</nav>
 			<div class="cta mobile-hide">
 				<a class="btn ghost" href="/contact">Contact us</a>
-				<a class="btn" href="/find-a-job" >Find a Job</a>
+				<a class="btn" href="/find-a-job">Find a Job</a>
 			</div>
 			<button class="hamburger mobile-show">
 				<span></span>
