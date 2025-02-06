@@ -83,7 +83,7 @@ permalink: /about
 					</div>
 					<div class="card-meta sm">
 						<h4>Jeff Sanders</h4>
-						<p>-</p>
+						<p>Chief Financial Officer</p>
 					</div>
 				</div>
 			</div>
@@ -209,7 +209,7 @@ permalink: /about
 					</div>
 					<div class="card-meta sm">
 						<h4>Brian Rigsby</h4>
-						<p>Title coming soon</p>
+						<p>Regional Director of Operations</p>
 					</div>
 				</div>
 			</div>
