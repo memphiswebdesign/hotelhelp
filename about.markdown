@@ -91,20 +91,6 @@ permalink: /about
 				<div class="card-item">
 					<div class="card-image">
 						<img
-							alt="Hal Smith | VP of East Coast Operations"
-							data-src="/assets/hal-smith.png"
-							class="lazyload" />
-					</div>
-					<div class="card-meta sm">
-						<h4>Hal Smith</h4>
-						<p>VP of East Coast Operations</p>
-					</div>
-				</div>
-			</div>
-			<div class="fx-item-4 fx-item-md-3 fx-item-sm-2">
-				<div class="card-item">
-					<div class="card-image">
-						<img
 							alt="Mike Inkster | Chief Operating Officer"
 							data-src="/assets/mike-inkster-24.jpg"
 							class="lazyload" />
