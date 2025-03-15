@@ -33,7 +33,6 @@ permalink: /about
 					<li>Tampa</li>
 					<li>Northwest Arkansas</li>
 					<li>Kansas City MO</li>
-					<li>Overland Park Ks</li>
 					<li>Dallas metroplex</li>
 					<li>Austin</li>
 					<li>San Antonio</li>
