@@ -107,7 +107,7 @@ permalink: /services
 			</div>
 		</div>
 	</div>
-	<div class="service-item container thin">
+	<!-- <div class="service-item container thin">
 		<div class="flex fx-apart fx-wrap pt-0">
 			<div class="service-info fx-item-2 fx-item-sm-1 pb-3">
 				<h2>Bartender / Beverage Service Specialist</h2>
@@ -122,7 +122,7 @@ permalink: /services
 				</a>
 			</div>
 		</div>
-	</div>
+	</div> -->
 </div>
 
 {% include mission-plug.html %}

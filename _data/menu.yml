@@ -16,8 +16,8 @@
     link: /services/hotel-help-grounds
   - title: Banquet & Event Server
     link: /services/hotel-help-banquet
-  - title: Bartender / Beverage Specialist
-    link: /services/hotel-help-bartender
+  # - title: Bartender / Beverage Specialist
+  #   link: /services/hotel-help-bartender
 
 - title: español
   link: /espanol

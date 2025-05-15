@@ -1,4 +1,4 @@
-I"^ª<div id="services" class="plus-tile-tx pb-3">
+I"fª<div id="services" class="plus-tile-tx pb-3">
 	<div class="container thiner pt-1 pb-2 px-0 mb-2 px-sm-1 center">
 		<!-- <pre>Trusted & Dependent</pre> -->
 		<h1 class="mt-0">HOTELhelp provide solutions in several types of employment relationships</h1>
@@ -154,7 +154,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="service-item container thin">
+	<!-- <div class="service-item container thin">
 		<div class="flex fx-apart fx-wrap pt-0">
 			<div class="service-info fx-item-2 fx-item-sm-1 pb-3">
 				<h2>Bartender / Beverage Service Specialist</h2>
@@ -169,16 +169,19 @@
 
 
 
-<img data-sizes="auto" src="/assets/set/100/service-bartender.jpg" data-srcset="
+<img data-sizes="auto"
+src="/assets/set/100/service-bartender.jpg" 
+data-srcset="
 /assets/set/480/service-bartender.jpg 500w,
 /assets/set/800/service-bartender.jpg 768w,
 /assets/set/1400/service-bartender.jpg 1280w,
-/assets/service-bartender.jpg" class="lazyload blur" />
+/assets/service-bartender.jpg"
+class="lazyload blur">
 					</div>
 				</a>
 			</div>
 		</div>
-	</div>
+	</div> -->
 </div>
 
 <section id="mission-plug">

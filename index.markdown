@@ -17,10 +17,10 @@ permalink: /
 					<li>Housekeeping</li>
 					<li>Laundry</li>
 					<li>Front Desk</li>
-					<li>Bartender</li>
 					<li>Maintenance</li>
 					<li>Lobby Breakfast</li>
 					<li>Grounds Landscaper</li>
+					<!-- <li>Bartender</li> -->
 				</ul>
 				<div class="btn-group">
 					<a href="/about" class="btn">About Us</a> &nbsp; 

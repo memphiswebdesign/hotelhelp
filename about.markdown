@@ -23,7 +23,12 @@ permalink: /about
 				<pre>Our Locations</pre>
 				<h2 class="mt-0 mb-1">Serving Hotels Across the Southeast</h2>
 				<ul class="list-dash">
-					<li>Memphis (HQ)</li>
+					<li>Headquarters: Memphis, TN</li>
+					<li>Tennessee</li>
+					<li>South Carolina</li>
+					<li>Georgia</li>
+					<li>Florida</li>
+					<!-- <li>Memphis (HQ)</li>
 					<li>Nashville</li>
 					<li>Charleston</li>
 					<li>Savannah</li>
@@ -35,7 +40,7 @@ permalink: /about
 					<li>Kansas City MO</li>
 					<li>Dallas metroplex</li>
 					<li>Austin</li>
-					<li>San Antonio</li>
+					<li>San Antonio</li> -->
 				</ul>
 				<a href="/contact" class="btn">Contact us</a>
 			</div>
